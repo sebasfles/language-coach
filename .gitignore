@@ -1,0 +1,25 @@
+# OS junk
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Local, machine-specific Claude context (never shared)
+CLAUDE.local.md
+
+# Editor / IDE cruft
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Logs / temp
+*.log
+*.tmp
