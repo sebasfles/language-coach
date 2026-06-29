@@ -20,5 +20,6 @@ Record each transition the topic has reached, e.g. `introduced@3 practicing@5 ma
 
 | topic | state(s) | notes |
 |---|---|---|
+| Präsens: `sein` + Personalpronomen + V2 + W-Fragen (`praesens-sein-personalpronomen`) | introduced@1 practicing@1 | 95% en ej.01; pendiente solo `ihr seid`. Ref: `grammar/praesens-sein-personalpronomen.md` |
 
-> Empty until session 1. `/close-day` adds and advances rows here.
+> `/close-day` adds and advances rows here. `practicing` because the topic is solid but still error-prone (`ihr seid`) — recycle, don't check off.

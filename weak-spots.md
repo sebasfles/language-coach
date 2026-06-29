@@ -8,5 +8,4 @@
 
 | spot | source | category | first_seen_session | last_seen_session | times_recurred | status | cleared_session |
 |---|---|---|---|---|---|---|---|
-
-> Empty until session 1.
+| `sein`: `ihr` → `seid` (escribió `sind`) | 02-grammar ej.01 (ítem 5) | verb-form | 1 | 1 | 1 | active |  |
