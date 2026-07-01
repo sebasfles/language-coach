@@ -8,4 +8,7 @@
 
 | spot | source | category | first_seen_session | last_seen_session | times_recurred | status | cleared_session |
 |---|---|---|---|---|---|---|---|
-| `sein`: `ihr` → `seid` (escribió `sind`) | 02-grammar ej.01 (ítem 5) | verb-form | 1 | 1 | 1 | active |  |
+| `sein`: `ihr` → `seid` | 02-grammar s1 · 00-check s2 | verb-form | 1 | 2 | 1 | watch |  |
+| número + concordancia: *Meine Muttersprache ist* (no *Muttersprachen ist*) | 03-writing s2 | agreement | 2 | 2 | 1 | active |  |
+| `die Stadt` (ciudad) vs `das Land` (país) | 02-grammar s2 (prod.) | word-choice | 2 | 2 | 1 | watch |  |
+| `ist` vs inglés *is* (interferencia) | 02-grammar s2 (prod.) | verb-form | 2 | 2 | 1 | watch |  |

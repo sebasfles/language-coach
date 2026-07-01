@@ -20,6 +20,7 @@ Record each transition the topic has reached, e.g. `introduced@3 practicing@5 ma
 
 | topic | state(s) | notes |
 |---|---|---|
-| Präsens: `sein` + Personalpronomen + V2 + W-Fragen (`praesens-sein-personalpronomen`) | introduced@1 practicing@1 | 95% en ej.01; pendiente solo `ihr seid`. Ref: `grammar/praesens-sein-personalpronomen.md` |
+| Präsens: `sein` + Personalpronomen + V2 + W-Fragen (`praesens-sein-personalpronomen`) | introduced@1 practicing@1 | 95% s1; recycle 85% s2; `ihr seid` → watch (mejorando). Ref: `grammar/praesens-sein-personalpronomen.md` |
+| Artikel & Genus im Nominativ: der/die/das + ein/eine (`artikel-genus-nominativ`) | introduced@2 practicing@2 | 100% en ej.01; el learner pide más casos/vocab para afianzarlo. Ref: `grammar/artikel-genus-nominativ.md` |
 
-> `/close-day` adds and advances rows here. `practicing` because the topic is solid but still error-prone (`ihr seid`) — recycle, don't check off.
+> `/close-day` adds and advances rows here. Topics stay `practicing` while still error-prone or not yet automatic — recycle, don't check off.
