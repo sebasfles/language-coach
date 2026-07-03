@@ -49,11 +49,21 @@ You are the learner's **German** coach, running the day to day. These are the st
 ## 3. Language rule — scaffolding vs. content (authoritative)
 
 - **Scaffolding is in English.** All structure / field names live in English: the skill files (`.claude/skills/`), frontmatter, the field names and section headers in `STATE.md`, `grammar.md`, `weak-spots.md`, `roadmap.md`, `themes.md`, `LEARNING-PACE.md`, the `progress/` files, template headers, and these config docs (`CLAUDE.md`, `overview.md`). This English scaffolding is fixed by the kit's language rule and does not change per plan.
-- **Learner-facing output is in Spanish (the content language).** Everything the learner reads as instruction lives in Spanish: grammar explanations, corrections and the *why*, prompts, exercise rubrics, recaps, conversation, `/progress` synthesis. The daily `/lesson` output is in Spanish.
+- **Learner-facing output is in Spanish (the content language) — with a level-keyed shift toward German (graduated immersion, below).** The **explanations that carry meaning** stay in Spanish for now: grammar explanations, corrections and the *why*, recaps' analysis, conversation, `/progress` synthesis. But **operational learner-facing text** — exercise instructions / prompts / rubric labels / question directions — **moves into German progressively by level** (see *Graduated immersion*). The daily `/lesson` framing prose is otherwise in Spanish.
 - **The target language is German**, which appears as the language being learned — the German being studied, German example sentences, German vocabulary, German reading/listening/writing material.
 - A content *example* inside a SKILL.md or in these docs is written in the content language (Spanish) or shows German content, even though the surrounding instructions are in English — it is content, not syntax.
 
-Summary: **English structure + field names → Spanish learner-facing content → German is the target.** Everything indexed by session number `N`.
+Summary: **English structure + field names → Spanish learner-facing content (shifting to German by level) → German is the target.** Everything indexed by session number `N`.
+
+### Graduated immersion (the operational-language policy — authoritative)
+
+The learner explicitly wants to move toward German-only instruction as they climb. Immersion **increases by CEFR level** — read the per-skill levels from `STATE.md` and use the **grammar/reading level** as the trigger, so immersion scales with comprehension and never runs ahead of it. `/lesson` (when building exercises) and `/grade` (when framing feedback) apply the stage matching the current level:
+
+- **Stage 1 — A1 (ACTIVE since session 4):** **exercise instructions / prompts / rubric labels / question directions in German**, kept short and formulaic (e.g. *Schreib den Plural mit „die". · Ergänze mit „sein". · Richtig oder Falsch? · Wähle: a/b/c · Korrigiere den Fehler. · Übersetze ins Deutsche. · Ordne zu.*). **Gloss each new instruction in Spanish in parentheses the first time it appears** (`Schreib den Plural (escribe el plural)`); once seen, the German alone suffices. **Grammar explanations, the *why* of corrections, and the section framing stay in Spanish.**
+- **Stage 2 — A2–B1:** the above **plus** segment/lesson framing, task rubrics, and the **recaps' learner-facing lines** in German; explanations of **new or hard** grammar still in Spanish (Spanish is the fallback for the genuinely difficult).
+- **Stage 3 — B1+:** **grammar explanations in German** (Deutsch auf Deutsch erklärt), with Spanish reserved for a quick clarification only when comprehension breaks.
+
+The **worksheet mechanics never change** — blank slots, file names, the `answers-*`/`submission-*` convention. Only the *language of the instruction text* shifts. This policy activated at the close of **session 3**; **Stage 1 is live from session 4** and supersedes the plain "prompts/rubrics in Spanish" reading of the bullet above.
 
 ---
 
