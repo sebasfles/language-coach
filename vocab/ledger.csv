@@ -1,4 +1,3 @@
-headword,translation_es,ipa,example_de,session_tag
 Hallo,hola,ˈhaloː,Hallo! Wie geht es dir?,session-001
 Guten Morgen,buenos días (por la mañana),ˌɡuːtn̩ ˈmɔʁɡn̩,Guten Morgen! Hast du gut geschlafen?,session-001
 Guten Tag,buenos días / buenas (saludo formal),ˌɡuːtn̩ ˈtaːk,Guten Tag! Mein Name ist Klara.,session-001
@@ -45,3 +44,27 @@ gern geschehen,de nada / con gusto,ɡɛʁn ɡəˈʃeːən,Gern geschehen!,sessio
 was,qué,vas,Was sprichst du?,session-002
 wer,quién,veːɐ,Wer ist das?,session-002
 "die Muttersprache, die Muttersprachen",lengua materna,ˈmʊtɐˌʃpʁaːxə,Meine Muttersprache ist Spanisch.,session-002
+"der Freund, die Freunde",el amigo,fʁɔʏnt,Das ist mein Freund.,session-003
+"die Freundin, die Freundinnen",la amiga,ˈfʁɔʏndɪn,Meine Freundin heißt Anna.,session-003
+"die Frau, die Frauen",la mujer / la señora,fʁaʊ,Die Frau kommt aus Berlin.,session-003
+"der Mann, die Männer",el hombre / el señor,man,Der Mann ist Lehrer.,session-003
+"das Kind, die Kinder",el niño / la niña / el hijo,kɪnt,Das Kind spielt.,session-003
+"die Familie, die Familien",la familia,faˈmiːli̯ə,Meine Familie ist groß.,session-003
+"die Mutter, die Mütter",la madre,ˈmʊtɐ,Meine Mutter heißt Elena.,session-003
+"der Vater, die Väter",el padre,ˈfaːtɐ,Mein Vater kommt aus Peru.,session-003
+"der Bruder, die Brüder",el hermano,ˈbʁuːdɐ,Ich habe einen Bruder.,session-003
+"die Schwester, die Schwestern",la hermana,ˈʃvɛstɐ,Meine Schwester wohnt in Lima.,session-003
+"der Lehrer, die Lehrer",el profesor / el maestro,ˈleːʁɐ,Der Lehrer spricht Deutsch.,session-003
+"die Lehrerin, die Lehrerinnen",la profesora / la maestra,ˈleːʁəʁɪn,Die Lehrerin heißt Frau Müller.,session-003
+"der Arzt, die Ärzte",el médico,aːɐ̯tst,Der Arzt ist sehr nett.,session-003
+"der Student, die Studenten",el estudiante,ʃtuˈdɛnt,Der Student lernt Deutsch.,session-003
+"das Auto, die Autos",el auto / el coche,ˈaʊto,Das Auto ist neu.,session-003
+"das Handy, die Handys",el celular / el móvil,ˈhɛndi,Mein Handy ist hier.,session-003
+"der Tag, die Tage",el día,taːk,Schönen Tag heute!,session-003
+"das Jahr, die Jahre",el año,jaːɐ̯,Ein Jahr hat zwölf Monate.,session-003
+"das Buch, die Bücher",el libro,buːx,Das Buch ist auf Deutsch.,session-003
+"die Zahl, die Zahlen",el número / la cifra,tsaːl,Die Zahl zehn ist wichtig.,session-003
+auch,también,aʊx,Ich spreche auch Englisch.,session-003
+sehr,muy,zeːɐ̯,Deutsch ist sehr schön.,session-003
+und,y,ʊnt,Anna und Pedro lernen Deutsch.,session-003
+oder,o,ˈoːdɐ,Kaffee oder Tee?,session-003

@@ -20,7 +20,8 @@ Record each transition the topic has reached, e.g. `introduced@3 practicing@5 ma
 
 | topic | state(s) | notes |
 |---|---|---|
-| Präsens: `sein` + Personalpronomen + V2 + W-Fragen (`praesens-sein-personalpronomen`) | introduced@1 practicing@1 | 95% s1; recycle 85% s2; `ihr seid` → watch (mejorando). Ref: `grammar/praesens-sein-personalpronomen.md` |
-| Artikel & Genus im Nominativ: der/die/das + ein/eine (`artikel-genus-nominativ`) | introduced@2 practicing@2 | 100% en ej.01; el learner pide más casos/vocab para afianzarlo. Ref: `grammar/artikel-genus-nominativ.md` |
+| Präsens: `sein` + Personalpronomen + V2 + W-Fragen (`praesens-sein-personalpronomen`) | introduced@1 practicing@1 mastered@3 | 95% s1; recycle 85% s2; s3 sein 4/4 + V2 correcto + `ihr seid` **cleared** → fiable a lo largo de 3 sesiones. Ref: `grammar/praesens-sein-personalpronomen.md` |
+| Artikel & Genus im Nominativ: der/die/das + ein/eine (`artikel-genus-nominativ`) | introduced@2 practicing@2 | 100% ej.02 s2; s3 género no 100% automático (*das Land*→eligió *der* en el 00-check, corregido luego). Sigue **practicing**. Ref: `grammar/artikel-genus-nominativ.md` |
+| Plural der Nomen (Nominativ): `die` para todo plural + 5 patrones (`plural-der-nomen`) | introduced@3 practicing@3 | s3: ej-01 89% / ej-02 88%. Sólido: `die` + concordancia plural. Error-prone: formas exactas (Studenten/Schwestern/Zahlen). Ref: `grammar/plural-der-nomen.md` |
 
 > `/close-day` adds and advances rows here. Topics stay `practicing` while still error-prone or not yet automatic — recycle, don't check off.
