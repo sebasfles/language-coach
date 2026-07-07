@@ -8,19 +8,20 @@
 
 | spot | source | category | first_seen_session | last_seen_session | times_recurred | status | cleared_session |
 |---|---|---|---|---|---|---|---|
-| género/artículo: género no automático (*das Buch*→eligió *der*; *das Essen*→escribió *die*; *das Land* ya ✓) | 00-check s3,s4 · 02-grammar s3 · 03-writing s4 | gender | 3 | 4 | 1 | active |  |
-| terminación verbal según la persona (*Er fähre*→*fährt*; *Ich bezahlen*→*bezahle*) | 02-grammar s4 · 03-writing s4 | verb-form | 4 | 4 | 0 | active |  |
-| formas exactas de plural: *Studente*→*Studenten* (n-Dekl.); *Schwestern*/*Zahlen* ya ✓ | 02-grammar s3 · 00-check s4 | word-form | 3 | 4 | 1 | active |  |
-| mayúscula de sustantivos (*die rechnung* en producción; correcto en 00-check) | 02-grammar s3 · 03-reading s3 · 03-writing s4 | spelling | 3 | 4 | 1 | active |  |
-| número + concordancia: *Meine Muttersprache ist* | 03-writing s2 · 00-check s3,s4 (correcto ×2) | agreement | 2 | 4 | 1 | cleared | 4 |
-| `die Stadt` (ciudad) vs `das Land` (país) | 02-grammar s2 · 00-check s3,s4 (correcto ×2) | word-choice | 2 | 4 | 1 | cleared | 4 |
-| `ist` vs inglés *is* (interferencia) | 02-grammar s2 · 00-check s3,s4 (correcto ×2) | verb-form | 2 | 4 | 1 | cleared | 4 |
-| `sein`: `ihr` → `seid` | 02-grammar s1 · 00-check s2,s3 (correcto ×2) | verb-form | 1 | 3 | 1 | cleared | 3 |
+| género/artículo: género no automático (*Buch*, *Essen*; en s5 ambos ✓) | 00-check s3,s4,s5 · 02-grammar s3,s5 · 03-writing s4 | gender | 3 | 5 | 1 | watch |  |
+| mayúscula de sustantivos (*die rechnung* s4; ✓ en 00-check s5, falta confirmar en producción) | 02-grammar s3 · 03-reading s3 · 03-writing s4 · 00-check s5 | spelling | 3 | 5 | 1 | watch |  |
+| formas exactas de plural: *Studenten* (n-Dekl.); en s5 ✓ | 02-grammar s3 · 00-check s4,s5 | word-form | 3 | 5 | 1 | watch |  |
+| terminación verbal según la persona (*fährt*, *bezahle*; en s5 ambos ✓) | 02-grammar s4 · 03-writing s4 · 00-check s5 | verb-form | 4 | 5 | 0 | watch |  |
+| número + concordancia: *Meine Muttersprache ist* | 03-writing s2 · 00-check s3,s4 | agreement | 2 | 4 | 1 | cleared | 4 |
+| `die Stadt` (ciudad) vs `das Land` (país) | 02-grammar s2 · 00-check s3,s4 | word-choice | 2 | 4 | 1 | cleared | 4 |
+| `ist` vs inglés *is* (interferencia) | 02-grammar s2 · 00-check s3,s4 | verb-form | 2 | 4 | 1 | cleared | 4 |
+| `sein`: `ihr` → `seid` | 02-grammar s1 · 00-check s2,s3 | verb-form | 1 | 3 | 1 | cleared | 3 |
 
-> **Churn de la sesión 4:**
-> - 🎉 **3 spots → cleared (s2 → s4):** número/concordancia (#8 00-check correcto), Stadt/Land (#9 correcto) e ist vs is (#10 correcto) — 2.ª reaparición correcta espaciada cada uno.
-> - 🔁 **género/artículo → sigue active, `times_recurred`+1:** *das Land* ya correcto, pero recurrió en *das Buch* (eligió *der*) y *das Essen* (escribió *die*). El género sigue sin ser automático → **punto #1 a machacar**.
-> - 🔁 **plural exacto → active, +1:** *Studenten* (n-Dekl.) aún resiste (Schwestern/Zahlen ya resueltos).
-> - 🔁 **mayúscula de sustantivos → active, +1:** correcta en el 00-check pero falló en producción libre (*die rechnung*).
-> - 🆕 **terminación verbal según la persona (active):** *fähre→fährt* (ej-02) y *bezahlen→bezahle* (escritura) — que la terminación remate según la persona (‑e ich / ‑t er·sie·es).
-> - **NO son weak-spots:** *aber* (conector nuevo, va al ledger), y erratas sueltas de tecleo (*empfielht, Spaniesch*).
+> **Churn de la sesión 5:**
+> - 🎯 **TODOS los weak-spots activos → watch** (1.ª reaparición correcta espaciada; todos salieron bien en el 00-check y la gramática):
+>   - **género/artículo:** *das Buch* ✓ + *das Essen* ✓ (los que fallaron en s4) → active → **watch**.
+>   - **terminación verbal:** *fährt* ✓ + *bezahle* ✓ → active → **watch**.
+>   - **plural exacto:** *die Studenten* ✓ (el último que resistía) → active → **watch**.
+>   - **mayúscula de sustantivos:** ✓ en el 00-check → active → **watch**; ⚠️ **confirmar en producción libre** (en s4 falló en escritura; la s6 toca escritura).
+> - **Una reaparición correcta más cada uno → cleared.**
+> - **Sin nuevos spots.** Los deslices de la s5 (bezhale, un, moecht, 2 typos en traducción) fueron **erratas de tecleo**, aclaradas — no patrones.

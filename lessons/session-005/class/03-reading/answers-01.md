@@ -3,16 +3,20 @@
 > Rellena y guarda. Luego corre `/grade`. Puedes responder B) en alemán o español.
 
 ## A) Gist
-1. Richtig / Falsch: __________
-2. ___ (a/b/c)
-3. Richtig / Falsch: __________
+
+1. Richtig / Falsch: Falsch
+2. b (a/b/c)
+3. Richtig / Falsch: Richtig
 
 ## B) Detalle
-4. __________________________________________
-5. __________________________________________
-6. __________________________________________
+
+4. Anna moecht einen Saft
+5. Schnitzel ist kalt
+6. zusammen
 
 ## C) Akkusativ-Jagd
+
 7.
-- __________
-- __________
+
+- einen Saft
+- einen Salat

@@ -3,20 +3,23 @@
 > Rellena y guarda. Luego corre `/grade`.
 
 ## Teil A — artículo definido (den/die/das)
-1. Ich nehme ______ Salat.
-2. Ich esse ______ Suppe.
-3. Ich trinke ______ Wasser.
-4. Ich möchte ______ Fisch.
-5. Ich nehme ______ Brot.
-6. Der Kellner bringt ______ Rechnung.
+
+1. Ich nehme den Salat.
+2. Ich esse die Suppe.
+3. Ich trinke das Wasser.
+4. Ich möchte den Fisch.
+5. Ich nehme das Brot.
+6. Der Kellner bringt die Rechnung.
 
 ## Teil B — artículo indefinido (ein/eine/einen)
-7. Ich möchte ______ Kaffee.
-8. Ich esse ______ Brötchen.
-9. Ich trinke ______ Bier.
-10. Ich hätte gern ______ Suppe.
-11. Ich nehme ______ Saft.
+
+7. Ich möchte einen Kaffee.
+8. Ich esse ein Brötchen.
+9. Ich trinke ein Bier.
+10. Ich hätte gern eine Suppe.
+11. Ich nehme einen Saft.
 
 ## Teil C — (a / b / c)
-12. ___
-13. ___
+
+12. b
+13. b
