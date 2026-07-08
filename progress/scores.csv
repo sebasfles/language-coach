@@ -18,3 +18,8 @@ session,segment,skill,items,correct,pct,self_difficulty_1to5,tier
 5,02-grammar,grammar,13,13,100,,A1
 5,02-grammar,grammar,11,11,100,,A1
 5,03-reading,reading,8,8,100,,A1
+6,00-check,grammar,7,7,100,,A1
+6,02-grammar,grammar,12,10,83,,A1
+6,02-grammar,grammar,10,9,90,,A1
+6,03-writing,writing,1,1,84,,A1
+6,03-writing,writing,1,1,90,,A1
