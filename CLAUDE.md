@@ -141,8 +141,9 @@ Applied by `/lesson` when it builds exercises/tests and by `/grade` when it grad
   - `02-grammar` → **production-biased:** cloze, transformation, translation; MC only for confusable contrasts (der/die/das, Akkusativ/Dativ, etc.).
   - `03-reading` / `04-listening` → **comprehension mix:** MC/TF for gist, open short-answer for detail.
   - `03-writing` → **open production** (holistic, graded by `/grade-writing`).
-  - `05-test` at the **7th** session (15 min) → **balanced mix, production-heavy.**
+  - `05-test` at the **7th** session → **balanced mix, production-heavy**, and **FULL** — the learner found a thin ~15-min set too short; target **~25–30 items (~25–30 min)** (see *Volume* below).
   - `05-test` at the **28th** session (90 min) → **exam-like:** sections per skill, multi-format, mirroring a real proficiency test.
+- **Volume / length — denser than the kit's default (LEARNER PREFERENCE, authoritative).** The learner is fast and finds thin sets too short ("es muy poco"); **make graded segments substantially longer** and use more of the 1.5 h. Per-session targets: **`02-grammar` ≥ ~30 items across 2–3 exercises**; **`03-reading` a longer passage + ~10–14 questions** (or two passages); **`03-writing` 2 tasks, fuller (~5–8 sentences each)**; **7th-session `05-test` ~25–30 items**. Keep **`00-check` fast** (its job is speed) and **`04-listening` short** (~10–15 min staple). **Vocab cap unchanged** (~15–30; gated by the learner's pronunciation-perfection time). Scales further via `LEARNING-PACE.md` multipliers. **More *real* production, never filler/repetition.** See memory `[[wants-longer-denser-exercises]]`.
 
 ---
 

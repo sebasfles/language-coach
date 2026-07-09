@@ -11,10 +11,12 @@
 |---|---|---|---|---|---|---|
 | 00-check | 7 items (retrieval + weak-spots) | done (7/7, 100%) | ~8 min | 1–2 | 1.0 | 2 sesiones seguidas al 100%; recicla los puntos vivos (keine fem, posición nicht, and→und, género suave) |
 | 01-vocab | 22 items | 22 | ~15 min | 2 | 1.1 | cómodo, sin backlog Anki → mantener ~20–24; el learner invierte mucho en pronunciar cada palabra (Anki+TTS) |
-| 02-grammar | 22 items (2 ej.: 12+10) | 22 (83% / 90%) | ~35 min | 2–3 | 1.05 | negación: lógica dominada, fricción en femenino *keine*; **s7 es test → aligerar teaching nuevo**; drillar la terminación fem |
-| 03-reading / 03-writing | 2 tareas de escritura | msg 84% / mini 90% | ~22 min | 2 | 1.15 | escritura comunicativa y completa; mayúsculas ya sólidas en producción · **próximo slot 03 (no-test) = 03-reading** (alterna; el test de s7 no consume la alternancia) |
+| 02-grammar | 22 items (2 ej.: 12+10) | 22 (83% / 90%) | ~35 min | 2–3 | **1.3 ⬆** | ⚡ **s7: el learner pidió sets MÁS largos** → subir a **≥~30 ítems (2–3 ej.)**; sigue drillando femenino *keine* |
+| 03-reading / 03-writing | 2 tareas de escritura | msg 84% / mini 90% | ~22 min | 2 | **1.3 ⬆** | ⚡ **más volumen**: reading = pasaje más largo + ~10–14 preguntas; writing = 2 tareas de ~5–8 frases · **próximo slot 03 = 03-reading** |
 | 04-listening | 1 clip ~10–15 min | done (self 3/5) | ~13 min | 3 | 1.2 | comprensión estable en 3/5 → seguir dando **volumen/repeticiones** al mismo nivel; es el cuello de botella |
 
+> ⚡ **UPDATE (feedback s7): el learner pidió sets MÁS largos/densos** — sintió el test y los ejercicios "muy poco". Aplicar desde la s8: **02-grammar ≥~30 ítems**, **reading pasaje largo + ~10–14 preguntas**, **writing 2 tareas fuller**, **test 7.º ~25–30 ítems**. 00-check sigue rápido y listening corto. Ver `CLAUDE.md §8` (Volume) y memoria `[[wants-longer-denser-exercises]]`. (Multiplicadores ⬆ arriba.)
+>
 > **Read of session 6 (y de la ventana s4–s6):** rendimiento muy alto y estable en lo objetivo (grammar/reading/writing 83–100%); **listening plano en 3/5** = el freno real → priorizar exposición. **Ojo con la s7: es TEST de consolidación (15 min)** → el `/lesson` debe **reducir la carga de enseñanza nueva** ese día para caber en 1.5 h con el test. Sin backlog de Anki → cap de vocab normal (~15–30), aunque el throughput de vocab está limitado por el tiempo que el learner dedica a **bordar la pronunciación** de cada ítem (su prioridad declarada). Género: recircular **suave** (exposición), no subir su "dificultad".
 >
 > Field meanings — **prescribed_load**: what `/lesson` planned · **completed_load**: what the learner did · **self_reported_time**: minutes reported · **self_difficulty_1to5**: 1 easy … 5 very hard · **load_multiplier**: per-segment scalar `/lesson` applies next session (>1 = more, <1 = ease off).
