@@ -26,3 +26,8 @@ session,segment,skill,items,correct,pct,self_difficulty_1to5,tier
 7,00-check,grammar,5,5,100,,A1
 7,02-grammar,grammar,10,10,100,,A1
 7,05-test,grammar,17,16,94,,A1
+8,00-check,grammar,7,7,100,,A1
+8,02-grammar,grammar,12,12,100,,A1
+8,02-grammar,grammar,10,9,90,,A1
+8,02-grammar,grammar,8,7,88,,A1
+8,03-reading,reading,12,11,92,,A1

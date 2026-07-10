@@ -8,11 +8,13 @@
 
 | spot | source | category | first_seen_session | last_seen_session | times_recurred | status | cleared_session |
 |---|---|---|---|---|---|---|---|
-| **género léxico** (der/die/das por sustantivo) — **EXPOSICIÓN de largo plazo, no penalizar** | 00-check s3–s7 · 02-grammar s3,s5,s6 · 03-writing s4,s6 | gender | 3 | 7 | 2 | active |  |
-| `ein-`/`kein-` femenino → **keine/eine** (terminación) — *aún sin probar limpio* | 02-grammar s6 (ej-01 #3/#5) · 00-check s7 (consigna ambigua) | case | 6 | 6 | 0 | active |  |
-| **definido vs indefinido** (el/la→der/den vs un/una→ein/einen) | 05-test s7 (#9 *einen* por *den*); asomó s5 | word-choice | 7 | 7 | 0 | watch |  |
-| posición de **nicht** (antes del adjetivo/adverbio) | 03-writing s6 · 00-check s7 (✓) | word-order | 6 | 7 | 0 | watch |  |
-| `and` → `und` (interferencia del inglés) | 03-writing s6 · 00-check s7 + 02-grammar s7 (✓×2) | false-friend | 6 | 7 | 0 | cleared | 7 |
+| **género léxico** (der/die/das por sustantivo) — **EXPOSICIÓN de largo plazo, no penalizar** | 00-check s3–s8 (s8 ✓) · 02-grammar s3,s5,s6 · 03-writing s4,s6 | gender | 3 | 8 | 2 | active |  |
+| `ein-`/`kein-` femenino → **keine/eine** (terminación) | 02-grammar s6 · 00-check s7 (ambiguo), s8 (✓ keine Suppe/keine Frage) | case | 6 | 8 | 0 | watch |  |
+| **definido vs indefinido** (el/la→der/den vs un/una→ein/einen) | 05-test s7 (#9) · 00-check s8 (✓ den Fisch/einen Kaffee) | word-choice | 7 | 8 | 0 | watch |  |
+| concordancia de *du* en **pregunta invertida** (*Kann du* → *Kannst du*) | 02-grammar s8 (ej-02 #5) | verb-form | 8 | 8 | 0 | active |  |
+| léxico **comprar (kaufen) vs pagar (zahlen)** | 02-grammar s8 (ej-03 #5) | word-choice | 8 | 8 | 0 | active |  |
+| posición de **nicht** (antes del adjetivo/adverbio) | 03-writing s6 · 00-check s7,s8 (✓×2) | word-order | 6 | 8 | 0 | cleared | 8 |
+| `and` → `und` (interferencia del inglés) | 03-writing s6 · 00-check s7 + 02-grammar s7 | false-friend | 6 | 7 | 0 | cleared | 7 |
 | mayúscula de sustantivos | 02-grammar s3 · 03-reading s3 · 03-writing s4,s6 · 00-check s5,s6 | spelling | 3 | 6 | 1 | cleared | 6 |
 | formas exactas de plural: *Studenten* (n-Dekl.) | 02-grammar s3 · 00-check s4,s5,s6 | word-form | 3 | 6 | 1 | cleared | 6 |
 | terminación verbal según la persona (*fährt*, *bezahle*) | 02-grammar s4 · 03-writing s4 · 00-check s5,s6 | verb-form | 4 | 6 | 0 | cleared | 6 |
@@ -21,10 +23,11 @@
 | `ist` vs inglés *is* (interferencia) | 02-grammar s2 · 00-check s3,s4 | verb-form | 2 | 4 | 1 | cleared | 4 |
 | `sein`: `ihr` → `seid` | 02-grammar s1 · 00-check s2,s3 | verb-form | 1 | 3 | 1 | cleared | 3 |
 
-> **Churn de la sesión 7:**
-> - 🎉 **`and→und` → cleared (s6→s7):** correcto sin ayuda en 00-check + varias veces en el ejercicio de conjunciones.
-> - ✅ **posición de nicht → watch** (correcto en 00-check: *nicht vegetarisch*). Una reaparición limpia más → cleared.
-> - 🆕 **definido vs indefinido → watch** (test #9: *einen* por *den*; "el"→den). Leve; el caso está bien, es la elección el/un.
-> - 🔁 **kein- femenino (keine) → sigue active, SIN probar limpio** (la consigna del 00-check fue ambigua → el learner escribió *eine*; el test no tenía ítem femenino de kein-). Re-probar con consigna clara.
-> - 🟰 **género léxico:** **correcto** esta sesión (der Käse, einen Käse, die Suppe…). Sigue como **exposición de largo plazo** (active, sin penalizar); buena señal de exposición.
-> - **TEST 94%** confirma que el arco A1 (verbos, Nom, plural, Akk, negación) está firme.
+> **Churn de la sesión 8:**
+> - 🎉 **`posición de nicht` → cleared (s6→s8):** correcto en s7 y s8 (*nicht warm*).
+> - ✅ **kein- femenino (keine) → watch:** por fin **probado limpio** (00-check s8: *keine Suppe / keine Frage*, consigna clara). Una limpia más → cleared.
+> - ✅ **definido vs indefinido → sigue watch** (00-check s8 correcto: *den Fisch / einen Kaffee*). Una limpia más → cleared.
+> - 🆕 **concordancia de *du* en pregunta invertida** (*Kann du → Kannst du*, ej-02 #5) — `verb-form`, active.
+> - 🆕 **comprar (kaufen) vs pagar (zahlen)** (ej-03 #5) — `word-choice`, active. *(El modal *soll* del mismo ítem se aceptó: razonamiento correcto del learner.)*
+> - 🟰 **género léxico:** correcto en s8 (der Käse, die Wurst). Sigue exposición de largo plazo.
+> - **No weak-spots:** matiz "modal+infinitivo vs modal+sustantivo" (lectura #10), y el R/F #12 (können=capacidad, aceptado). Erratas de tecleo.

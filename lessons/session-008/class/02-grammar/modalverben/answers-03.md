@@ -3,13 +3,15 @@
 > Rellena y guarda. Luego corre `/grade`.
 
 ## Teil A — diálogo (modal)
-1. „______ ich Ihnen helfen?"
-2. „Ja, ich ______ ein Kilo Äpfel."
-3. „______ ich mit Karte zahlen?"
-4. „Nein, Sie ______ bar zahlen."
+
+1. „Kann ich Ihnen helfen?"
+2. „Ja, ich moechte ein Kilo Äpfel."
+3. „Darf ich mit Karte zahlen?"
+4. „Nein, Sie muessen bar zahlen."
 
 ## Teil B — traducción
-5. __________________________________________
-6. __________________________________________
-7. __________________________________________
-8. __________________________________________
+
+5. Ich soll Brot zahlen
+6. Darf ich die Kleidung anprobieren?
+7. Ich moechte zwei Kilos Aepfel
+8. Sie will mit Karte zahlen
