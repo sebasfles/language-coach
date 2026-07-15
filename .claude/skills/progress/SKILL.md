@@ -47,7 +47,7 @@ Produce a report **to chat** and the refreshed `progress.md` snapshot, with thes
 
 ## Note
 `/progress` only **SHOWS** — it is read-only and on-demand, never auto-invoked, never part of the daily loop. It is distinct from:
-- **`/recalibrate`**, which **ACTS** — it re-estimates CEFR per skill and edits `roadmap.md` pace, every 28th session.
+- **`/recalibrate`**, which **ACTS** — it re-estimates CEFR per skill and edits `roadmap.md` pace, every 14th session.
 - **`LEARNING-PACE.md`**, the **tactical** per-session throughput file consumed by `/lesson`.
 
 If a plateau or sticky error here warrants a real re-plan, that is `/recalibrate`'s job — point the learner to it; don't do it here.

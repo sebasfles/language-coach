@@ -4,7 +4,7 @@
 >
 > **Axis.** Grammar is its own track. The **theme** (`themes.md`) is a second, orthogonal axis that supplies vocabulary + the context of reading/writing/listening — a theme **never** reorders this roadmap.
 >
-> **Indexing.** Everything is indexed by **session number `N`**, never by calendar date, day, week, or month. The session ranges below are **estimates for pacing only**; `/recalibrate` (every 28th session) adjusts the actual pace against the learner's real `scores.csv` curve and weak-spot churn.
+> **Indexing.** Everything is indexed by **session number `N`**, never by calendar date, day, week, or month. The session ranges below are **estimates for pacing only**; `/recalibrate` (every 14th session) adjusts the actual pace against the learner's real `scores.csv` curve and weak-spot churn.
 >
 > **Language rule.** This is a scaffolding/config doc: English structure + field names, German as the content/examples. The daily learner-facing output (`/lesson`) is written in **Spanish** (the content language).
 
@@ -30,7 +30,7 @@ Starting level is assumed **beginner / A1** (not stated by the learner). **Sessi
 | **B2** | N ≈ 105–130 | Introduced; partially drilled (the realistic frontier) |
 | **B2/C1 polish** | N ≈ 125–130+ | Mostly **input / glossed**; full mastery is beyond this window |
 
-Ranges **overlap on purpose** (topics interleave; grammar advances every session but new-topic introduction is lighter on the 7th-session consolidation tests and the standalone 28th-session 90-min test). The numbers are not a schedule — `/recalibrate` re-paces them.
+Ranges **overlap on purpose** (topics interleave; grammar advances every session but new-topic introduction is lighter on the 7th-session consolidation tests and the standalone 14th-session 90-min test). The numbers are not a schedule — `/recalibrate` re-paces them.
 
 ---
 
@@ -145,5 +145,5 @@ Beyond the realistic finish line for ~195 hours — kept here as the **north sta
 ## Cross-references & how this file is used
 
 - **`/lesson`** walks this roadmap to pick the next still-owed grammar topic each session (grammar advances **every** session), checking it against `grammar.md` (what's actually been introduced/practiced/mastered). The current **theme** (`themes.md` / `STATE.md`) supplies that session's vocabulary and context but **never** reorders this sequence. **OUTPUT** (writing/speaking) stays within grammar taught so far; **INPUT** (reading/listening) may carry structures from **later bands** as comprehensible input — gloss them briefly, don't drill them.
-- **`/recalibrate`** (every 28th session) re-paces these bands against the learner's real `scores.csv` curve, weak-spot churn, and the 90-min test — and may **pull a later structure forward** if it keeps recurring in the input and the learner is ready. The session ranges above are estimates; `/recalibrate` is the authority on pace.
+- **`/recalibrate`** (every 14th session) re-paces these bands against the learner's real `scores.csv` curve, weak-spot churn, and the 90-min test — and may **pull a later structure forward** if it keeps recurring in the input and the learner is ready. The session ranges above are estimates; `/recalibrate` is the authority on pace.
 - **Honest target.** Per `overview.md`'s honest-expectations section, **B2/C1 is the ambitious north star** for this 6-month window; a **solid A2–B1** (reading/grammar ahead, listening/speaking trailing) is the realistic, *successful* landing. This roadmap front-loads the compressible rule-based grammar precisely so the exposure-gated skills get the remaining hours.

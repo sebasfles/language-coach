@@ -46,7 +46,7 @@ If no review files exist for this session, proceed from the **self-report alone*
 8. **Advance the session counter idempotently:** set the next session number to `max(highest existing lessons/session-* dir, STATE N) + 1`. Re-running `/close-day` for the same session must not double-advance.
 9. **Regenerate `LEARNING-PACE.md`** (repo root) when `N == 1` or `N % 3 == 0` — **throughput only**: per-segment prescribed vs completed load, the self-reported time/difficulty, and one per-segment load multiplier. It must carry **no CEFR / level / roadmap opinion** — that is `/recalibrate`'s job.
 10. **Celebrate.** In both the end-of-session report and the recap, name any **cleared weak spots** with their session span (e.g. "appeared session 9, cleared session 15") and any **newly-mastered topics**, and a **theme advance** when one happened. Report-only — no achievements file.
-11. **Recalibrate reminder.** If the just-closed session number `N` is a multiple of 28 (the 90-minute assessment session), remind the learner to run `/recalibrate` next. This is only a reminder — `/recalibrate` stays explicit and is never auto-invoked.
+11. **Recalibrate reminder.** If the just-closed session number `N` is a multiple of 14 (the 90-minute assessment session), remind the learner to run `/recalibrate` next. This is only a reminder — `/recalibrate` stays explicit and is never auto-invoked.
 12. Commit the session's work with a clear message (e.g., `session NNN: <topic>`).
 
 ## Writes

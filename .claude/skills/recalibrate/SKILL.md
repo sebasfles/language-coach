@@ -1,7 +1,7 @@
 ---
 name: recalibrate
 description: >
-  Periodically re-estimate the learner's level and adjust the plan's pace. Run every 28th session,
+  Periodically re-estimate the learner's level and adjust the plan's pace. Run every 14th session,
   aligned with the 90-minute test. Reads the per-skill scores curve, weak-spots churn, the period's
   session recaps, and the latest 90-minute test result, re-estimates CEFR level per skill, updates
   STATE.md, adjusts the roadmap pace if the learner is ahead of or behind plan, and appends a
@@ -11,14 +11,14 @@ disable-model-invocation: true
 
 # /recalibrate — re-estimate level, adjust pace
 
-Run this **every 28th session**, aligned with the 90-minute test. Re-estimate the learner's level against **real data, not the average**. Write in the **content language** defined in `CLAUDE.md`.
+Run this **every 14th session**, aligned with the 90-minute test. Re-estimate the learner's level against **real data, not the average**. Write in the **content language** defined in `CLAUDE.md`.
 
 ## Read first (explicit — don't plan from memory)
 As your FIRST action, Read each of these files (`cat ... 2>/dev/null` is fine); treat any missing file as empty; do not plan from memory:
 - `progress/scores.csv` — the trailing curve for the **objectively-graded** skills (reading, writing-holistic, grammar, `00-check`). Weight the 90-minute test heaviest, with the every-7th-session 15-minute tests as corroboration; read the per-skill trend, not a single row.
 - `weak-spots.md` — which spots are still `active`/`watch` vs `cleared`, and how much each churned.
 - The period's session recaps (`lessons/session-*/recap.md`) — drill into the relevant ones if you need detail; the **listening** and **speaking** self-report notes here are your evidence for those two self-reported skills (they are not in `scores.csv`).
-- The latest **90-minute test** — the `05-test/review.md` from the most recent session whose number is a multiple of 28.
+- The latest **90-minute test** — the `05-test/review.md` from the most recent session whose number is a multiple of 14.
 
 **Missing-input guard.** If no 90-minute test exists yet, estimate from the recaps and the scores curve instead, and say so plainly in your summary.
 

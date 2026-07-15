@@ -31,4 +31,4 @@ If no argument is given, grade the most-recent ungraded answers under the curren
 - One appended row in `progress/scores.csv` (see Process step 6) so `/lesson` and `/recalibrate` can track the per-skill curve.
 
 ## Scope
-Size-agnostic: the short per-session check, the every-7th-session consolidation test, and the every-28th-session 90-minute (1h30) test all use this skill. Holistic **writing** is handled by `/grade-writing`, not here.
+Size-agnostic: the short per-session check, the every-7th-session consolidation test, and the every-14th-session 90-minute (1h30) test all use this skill. Holistic **writing** is handled by `/grade-writing`, not here.
