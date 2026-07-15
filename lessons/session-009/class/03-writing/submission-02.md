@@ -4,14 +4,14 @@
 
 **Meine Kleidung**
 
-______________________________________________
+Ich habe zwei Hemden und einen Hose.
 
-______________________________________________
+Meine Hemden sind schwarz.
 
-______________________________________________
+Ich mag meine Hemden.
 
-______________________________________________
+Ich habe keinen Pullover.
 
-______________________________________________
+Ich heatte gern Pullover kaufen.
 
-______________________________________________
+Ich muss den Supermarkt gehen.

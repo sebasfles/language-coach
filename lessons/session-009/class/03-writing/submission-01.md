@@ -6,18 +6,24 @@
 
 ---
 
-**Verkäufer/in:** ______________________________________________
+**Verkäufer/in:** Hallo, kann ich Ihr helfen?
 
-**Du:** ______________________________________________
+**Du:** Ja, ich moechte eine Schuhe kaufen. Die Schuhe muss schwarz sein.
 
-**Verkäufer/in:** ______________________________________________
+**Verkäufer/in:** Ok, was ist dein groß?
 
-**Du:** ______________________________________________
+**Du:** 42
 
-**Verkäufer/in:** ______________________________________________
+**Verkäufer/in:** Ok, das ist hier
 
-**Du:** ______________________________________________
+**Du:** Danke schoen. Das ist nett.
 
-**Verkäufer/in:** ______________________________________________
+**Verkäufer/in:** Die Schuehe kosten zehn euros
 
-**Du:** ______________________________________________
+**Du:** Das ist sehr billig. Ich moechte eine Schuhe kaufen
+
+**Verkäufer/in:** Ok, zahlst du mit Karte?
+
+**Du:** Nein, ich moechte bar zahle.
+
+**Verkäufer/in:** Ok, kein problem!

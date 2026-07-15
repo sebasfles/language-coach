@@ -3,18 +3,23 @@
 > Rellena los huecos y guarda. Luego corre `/grade`. No borres el enunciado.
 
 ## Teil A — Verneine mit kein-
-1. → __________________________
-2. → __________________________
+
+1. → Ich habe keine Tüte.
+2. → Ich möchte keine Packung
 
 ## Teil B — Bilde die Frage
-3. → __________________________
+
+3. → Koennen du mir helfen?
 
 ## Teil C — comprar/pagar
-4. → __________________________
+
+4. → Ich kaufe Brot
 
 ## Teil D — definido «el»
-5. → __________________________
+
+5. → Ich trinke der Saft
 
 ## Teil E — Artículo (der/die/das)
-6. ______ Kassenbon
-7. ______ Tüte
+
+6. die Kassenbon
+7. die Tüte

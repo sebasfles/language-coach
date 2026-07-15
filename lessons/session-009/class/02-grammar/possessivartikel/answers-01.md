@@ -3,19 +3,22 @@
 > Rellena y guarda. Luego corre `/grade`.
 
 ## Teil A — mein- (Nominativ)
-1. Das ist ______ Hemd.
-2. Das ist ______ Jacke.
-3. Das ist ______ Pullover.
-4. Das sind ______ Schuhe.
+
+1. Das ist mein Hemd.
+2. Das ist meine Jacke.
+3. Das ist mein Pullover.
+4. Das sind meine Schuhe.
 
 ## Teil B — mein- (Akkusativ)
-5. Ich mag ______ Pullover.
-6. Ich nehme ______ Jacke.
-7. Ich suche ______ Hemd.
-8. Ich mag ______ Schuhe.
+
+5. Ich mag meinen Pullover.
+6. Ich nehme meine Jacke.
+7. Ich suche mein Hemd.
+8. Ich mag meinen Schuhe.
 
 ## Teil C — dein-
-9. Ist das ______ Kleid?
-10. Hast du ______ Liste?
-11. Ich sehe ______ Korb.
-12. Wo ist ______ Pullover?
+
+9. Ist das dein Kleid?
+10. Hast du deine Liste?
+11. Ich sehe deinen Korb.
+12. Wo ist deinen Pullover?
