@@ -1,19 +1,22 @@
-# Ejercicio 02 — tus respuestas (*ihr* / *Sie* / separables)
+# Ejercicio 02 — tus respuestas (_ihr_ / _Sie_ / separables)
 
-## A) *ihr*
-1. kommen → __________ !
-2. warten → __________ !
-3. sprechen → __________ !
-4. sein → __________ !
+## A) _ihr_
 
-## B) *Sie*
-5. kommen → __________ !
-6. nehmen → __________ !
-7. mir helfen → __________ __________ !
-8. sein → __________ !
+1. kommen → kommt !
+2. warten → wartet !
+3. sprechen → sprecht !
+4. sein → seid !
 
-## C) Separables (*du*)
-9. einkaufen → __________ bitte __________ !
-10. aufstehen → __________ schnell __________ !
-11. zurückgeben → __________ die Jacke __________ !
-12. anprobieren → __________ das Kleid __________ !
+## B) _Sie_
+
+5. kommen → kommen Sie !
+6. nehmen → Nehmen Sie !
+7. mir helfen → Helfen mir Sie !
+8. sein → Seien Sie !
+
+## C) Separables (_du_)
+
+9. einkaufen → kauf bitte ein !
+10. aufstehen → steh schnell auf !
+11. zurückgeben → gib die Jacke zurueck !
+12. anprobieren → probier das Kleid an !

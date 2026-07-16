@@ -19,7 +19,13 @@ Verbo en **posición 1** (V1). Sin sujeto expreso salvo el *Sie* formal.
 
 ## La `-e` final
 - Opcional/anticuada en general: *Komm(e)! Kauf(e)!* → usa la corta.
-- **Obligatoria** tras radical en `-t/-d/-ig` o consonante+`m/n`: *Arbeite! Rede! Entschuldige! Öffne! Atme!*
+- **Obligatoria** tras radical en:
+  - **`-t`**: *Arbeite! Warte! Antworte! Bitte!*
+  - **`-d`**: *Rede! Finde! Bade! Lade!*
+  - **`-ig` / `-ier`**: *Entschuldige! Besichtige! Studiere!* — ⚠️ ojo: aquí el atajo "forma de *du* − `-st`" **falla** (*du besichtigst* − st = *besichtig*, pero el imperativo es **Besichtige!**). Con `-ig`/`-ier` **se añade** `-e`.
+  - **consonante + `m/n`, pero SOLO si esa consonante NO es `l`/`r`/`m`/`n`**: ✅ *Öffne! Atme! Rechne! Zeichne! Widme! Regne!* — ❌ tras `l`/`r`/nasal doble NO lleva `-e`: *Lern!* (r+n), *Film!* (l+m), *Warn!* (r+n), *Komm!* (mm).
+- **Juez fonético:** si sin la `-e` es **impronunciable** (*Atm! Öffn!*), lleva `-e`; si ya se pronuncia bien (*Komm! Lern!*), no.
+- Fuente: Duden (Bildung des Imperativs) + Grammis/IDS.
 
 ## Irregulares
 | | du | ihr | Sie |

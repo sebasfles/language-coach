@@ -3,21 +3,26 @@
 > Rellena cada hueco. Rápido, sin buscar. Luego: `/grade`.
 
 ## A) Género (der/die/das)
-1. ____ Kassenbon
-2. ____ Größe
-3. ____ Angebot
+
+1. der Kassenbon
+2. die Größe
+3. die Angebot
 
 ## B) Akkusativ masc (der→den / ein→einen)
-4. Ich nehme ____ Korb.
-5. Ich möchte ____ Saft, bitte.
 
-## C) Pregunta invertida con *du*
-6. ____ du mir helfen? *(können)*
+4. Ich nehme einen Korb.
+5. Ich möchte den Saft, bitte.
 
-## D) *-en* masc-Akk / plurales
-7. Ich brauche ____ Pullover.
-8. Die Schuhe ____ 50 Euro. *(kosten)*
+## C) Pregunta invertida con _du_
 
-## E) *sein* + W-Fragen
-9. ____ ihr müde?
-10. ____ kommst du? — Aus Peru.
+6. Kannst du mir helfen? _(können)_
+
+## D) _-en_ masc-Akk / plurales
+
+7. Ich brauche einen Pullover.
+8. Die Schuhe kosten 50 Euro. _(kosten)_
+
+## E) _sein_ + W-Fragen
+
+9. Seind ihr müde?
+10. Woher kommst du? — Aus Peru.

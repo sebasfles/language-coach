@@ -1,14 +1,14 @@
-# Ejercicio 01 — tus respuestas (imperativo *du*)
+# Ejercicio 01 — tus respuestas (imperativo _du_)
 
-1. kommen → __________ !
-2. kaufen → __________ !
-3. warten → __________ !
-4. zeigen → __________ !
-5. sprechen → __________ !
-6. nehmen → __________ !
-7. geben → __________ !
-8. lesen → __________ !
-9. fahren → __________ !
-10. schlafen → __________ !
-11. sein → __________ !
-12. haben → __________ !
+1. kommen → komm !
+2. kaufen → kauf !
+3. warten → warte !
+4. zeigen → zeig !
+5. sprechen → sprich !
+6. nehmen → nimm !
+7. geben → gib !
+8. lesen → lies !
+9. fahren → fahr !
+10. schlafen → schlaf !
+11. sein → sei !
+12. haben → hab !
