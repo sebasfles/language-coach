@@ -3,20 +3,25 @@
 > Rellena cada hueco. Rápido, sin buscar. Luego: `/grade`.
 
 ## A) `-en` solo en masc Akk
-1. Ich nehme ____ Bus.
-2. Ich kaufe ____ Fahrkarte.
+
+1. Ich nehme einen Bus.
+2. Ich kaufe eine Fahrkarte.
 
 ## B) `haben`
-3. Der Zug ____ Verspätung.
-4. ____ du ein Ticket?
+
+3. Der Zug hat Verspätung.
+4. Habst du ein Ticket?
 
 ## C) Verneine mit „kein-"
-5. Ich habe ____ Zeit.
+
+5. Ich habe keine Zeit.
 
 ## D) Género
-6. ____ Bahnhof
-7. ____ Gleis
+
+6. der Bahnhof
+7. das Gleis
 
 ## E) Plural
-8. der Zug → die ____
-9. die Linie → die ____
+
+8. der Zug → die Zügen
+9. die Linie → die Linien
