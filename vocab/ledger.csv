@@ -7,8 +7,8 @@ Auf Wiedersehen,hasta la vista / adiós (formal),aʊf ˈviːdɐˌzeːən,Auf Wie
 Ich heiße …,me llamo …,ɪç ˈhaɪsə,Ich heiße Sebastian.,session-001
 Ich bin …,soy / yo soy …,ɪç ˈbɪn,Ich bin Ana.,session-001
 Mein Name ist …,mi nombre es …,maɪn ˈnaːmə ɪst,Mein Name ist Klara.,session-001
-Wie heißt du?,¿cómo te llamas?,viː ˈhaɪst duː,"Wie heißt du? — Ich heiße Pablo.",session-001
-Woher kommst du?,¿de dónde eres / vienes?,voˈheːɐ ˈkɔmst duː,"Woher kommst du? — Ich komme aus Spanien.",session-001
+Wie heißt du?,¿cómo te llamas?,viː ˈhaɪst duː,Wie heißt du? — Ich heiße Pablo.,session-001
+Woher kommst du?,¿de dónde eres / vienes?,voˈheːɐ ˈkɔmst duː,Woher kommst du? — Ich komme aus Spanien.,session-001
 Ich komme aus …,soy de … / vengo de …,ɪç ˈkɔmə aʊs,Ich komme aus Kolumbien.,session-001
 Freut mich,encantado/a / mucho gusto,fʁɔʏt ˈmɪç,"Freut mich, Sie kennenzulernen.",session-001
 "der Name, die Namen",el nombre,deːɐ ˈnaːmə,Wie ist dein Name?,session-001
@@ -90,8 +90,8 @@ trinken,beber,ˈtʁɪŋkn̩,Was trinkst du?,session-004
 empfehlen,recomendar,ɛmˈpfeːlən,Was empfiehlst du?,session-004
 bezahlen,pagar,bəˈtsaːlən,Ich bezahle die Rechnung.,session-004
 lecker,rico / delicioso,ˈlɛkɐ,Das Essen ist lecker.,session-004
-"Ich hätte gern …",quisiera … / me gustaría …,ɪç ˈhɛtə ɡɛʁn,Ich hätte gern eine Suppe.,session-004
-"Was empfehlen Sie?",¿qué recomienda (usted)?,vas ɛmˈpfeːlən ziː,Was empfehlen Sie?,session-004
+Ich hätte gern …,quisiera … / me gustaría …,ɪç ˈhɛtə ɡɛʁn,Ich hätte gern eine Suppe.,session-004
+Was empfehlen Sie?,¿qué recomienda (usted)?,vas ɛmˈpfeːlən ziː,Was empfehlen Sie?,session-004
 "der Tee, die Tees",el té,teː,Ich möchte einen Tee.,session-005
 "der Saft, die Säfte",el jugo / zumo,zaft,Ich trinke einen Saft.,session-005
 "der Wein, die Weine",el vino,vaɪ̯n,Ich nehme einen Wein.,session-005
@@ -108,9 +108,9 @@ lecker,rico / delicioso,ˈlɛkɐ,Das Essen ist lecker.,session-004
 "das Glas, die Gläser",el vaso / la copa,ɡlaːs,Ich trinke ein Glas Wasser.,session-005
 "das Getränk, die Getränke",la bebida,ɡəˈtʁɛŋk,Das Getränk ist kalt.,session-005
 "das Bier, die Biere",la cerveza,biːɐ̯,Ich trinke ein Bier.,session-005
-"das Gemüse",la verdura,ɡəˈmyːzə,Ich esse Gemüse.,session-005
+das Gemüse,la verdura,ɡəˈmyːzə,Ich esse Gemüse.,session-005
 bestellen,pedir / ordenar,bəˈʃtɛlən,Ich bestelle einen Salat.,session-005
-"möchten (ich möchte)",querer / quisiera,ˈmœçtn̩,Ich möchte einen Kaffee.,session-005
+möchten (ich möchte),querer / quisiera,ˈmœçtn̩,Ich möchte einen Kaffee.,session-005
 süß,dulce,zyːs,Der Kuchen ist süß.,session-005
 salzig,salado,ˈzalt͡sɪç,Die Suppe ist salzig.,session-005
 kalt,frío/a,kalt,Die Suppe ist kalt.,session-005
@@ -130,7 +130,7 @@ das Abendessen,la cena,ˈaːbn̩tˌʔɛsn̩,Das Abendessen ist warm.,session-006
 der Alkohol,el alcohol,ˈalkohoːl,Ich trinke keinen Alkohol.,session-006
 "die Allergie, die Allergien",la alergia,alɛʁˈɡiː,Ich habe eine Allergie.,session-006
 vegetarisch,vegetariano/a,veɡeˈtaːʁɪʃ,Ich esse vegetarisch.,session-006
-"mögen (ich mag)",gustar / querer,ˈmøːɡn̩,Ich mag Fisch.,session-006
+mögen (ich mag),gustar / querer,ˈmøːɡn̩,Ich mag Fisch.,session-006
 schmecken,saber (a) / gustar (comida),ˈʃmɛkn̩,Das schmeckt gut.,session-006
 probieren,probar,pʁoˈbiːʁən,Ich probiere den Käse.,session-006
 scharf,picante,ʃaʁf,Die Suppe ist scharf.,session-006
@@ -162,9 +162,9 @@ das Pfand,el depósito (envases),pfant,Für die Flasche zahle ich Pfand.,session
 "die Größe, die Größen",la talla,ˈɡʁøːsə,Meine Größe ist 40.,session-008
 die Kleidung,la ropa,ˈklaɪ̯dʊŋ,Die Kleidung ist teuer.,session-008
 kaufen,comprar,ˈkaʊ̯fn̩,Ich kaufe Brot.,session-008
-"einkaufen (ein|kaufen)",hacer la compra,ˈaɪ̯nˌkaʊ̯fn̩,Ich muss einkaufen.,session-008
+einkaufen (ein|kaufen),hacer la compra,ˈaɪ̯nˌkaʊ̯fn̩,Ich muss einkaufen.,session-008
 kosten,costar,ˈkɔstn̩,Was kostet das?,session-008
-"anprobieren (an|probieren)",probarse (ropa),ˈanpʁoˌbiːʁən,Kann ich das anprobieren?,session-008
+anprobieren (an|probieren),probarse (ropa),ˈanpʁoˌbiːʁən,Kann ich das anprobieren?,session-008
 bringen,traer,ˈbʁɪŋən,Der Kellner bringt die Rechnung.,session-008
 günstig,económico / barato,ˈɡʏnstɪç,Der Preis ist günstig.,session-008
 "das Hemd, die Hemden",la camisa,hɛmt,Das ist mein Hemd.,session-009
@@ -185,7 +185,7 @@ weiß,blanco,vaɪ̯s,Das Kleid ist weiß.,session-009
 suchen,buscar,ˈzuːxn̩,Ich suche eine Jacke.,session-009
 brauchen,necesitar,ˈbʁaʊ̯xn̩,Ich brauche eine Tüte.,session-009
 finden,encontrar,ˈfɪndn̩,Ich finde die Größe nicht.,session-009
-"zurückgeben (zurück|geben)",devolver,tsuˈʁʏkˌɡeːbn̩,Ich möchte die Jacke zurückgeben.,session-009
+zurückgeben (zurück|geben),devolver,tsuˈʁʏkˌɡeːbn̩,Ich möchte die Jacke zurückgeben.,session-009
 "der Rabatt, die Rabatte",el descuento,ʁaˈbat,Es gibt einen Rabatt.,session-009
 "der Kunde, die Kunden",el cliente,ˈkʊndə,Der Kunde wartet an der Kasse.,session-010
 "der Verkäufer, die Verkäufer",el vendedor,fɛɐ̯ˈkɔɪ̯fɐ,Der Verkäufer hilft mir.,session-010
@@ -197,10 +197,10 @@ das Bargeld,el efectivo,ˈbaːɐ̯ɡɛlt,Ich habe kein Bargeld.,session-010
 frisch,fresco,fʁɪʃ,Das Brot ist frisch.,session-010
 reduziert,rebajado,ʁeduˈtsiːɐ̯t,Die Jacke ist reduziert.,session-010
 das Wechselgeld,el cambio (vuelto),ˈvɛksl̩ɡɛlt,Hier ist Ihr Wechselgeld.,session-010
-geben – gab – hat gegeben,dar,ˈɡeːbn̩,Gib mir den Kassenbon!,session-010
-gehen – ging – ist gegangen,ir,ˈɡeːən,Ich gehe zum Supermarkt.,session-010
+geben,dar,ˈɡeːbn̩,Gib mir den Kassenbon!,session-010
+gehen,ir,ˈɡeːən,Ich gehe zum Supermarkt.,session-010
 "helfen (hilft, + Dativ)",ayudar,ˈhɛlfn̩,Kannst du mir helfen?,session-010
-"warten (+ auf + Akkusativ)",esperar,ˈvaʁtn̩,Warte hier!,session-010
+warten (+ auf + Akkusativ),esperar,ˈvaʁtn̩,Warte hier!,session-010
 zeigen,mostrar,ˈtsaɪ̯ɡn̩,Zeig mir die Hose!,session-010
 langsam,despacio / lento,ˈlaŋzaːm,"Sprich langsam, bitte!",session-010
 schnell,rápido,ʃnɛl,Komm schnell!,session-010
@@ -213,11 +213,11 @@ mehr,más,meːɐ̯,Ich brauche mehr Geld.,session-010
 "die Fahrkarte, die Fahrkarten",el billete,ˈfaːɐ̯ˌkaʁtə,Ich kaufe eine Fahrkarte.,session-011
 "die Linie, die Linien",la línea,ˈliːni̯ə,Welche Linie fährt zum Zentrum?,session-011
 "die Haltestelle, die Haltestellen",la parada,ˈhaltəˌʃtɛlə,Die Haltestelle ist dort.,session-011
-"umsteigen (um|steigen)",hacer transbordo,ˈʊmˌʃtaɪ̯ɡn̩,Du musst am Bahnhof umsteigen.,session-011
-"einsteigen (ein|steigen)",subir(se),ˈaɪ̯nˌʃtaɪ̯ɡn̩,Steig hier ein!,session-011
-"aussteigen (aus|steigen)",bajar(se),ˈaʊ̯sˌʃtaɪ̯ɡn̩,Steig an der nächsten Haltestelle aus.,session-011
-"abfahren (ab|fahren) – fuhr ab – ist abgefahren",salir/partir,ˈapˌfaːʁən,Der Zug fährt um 8 Uhr ab.,session-011
-"ankommen (an|kommen) – kam an – ist angekommen",llegar,ˈanˌkɔmən,Wir kommen um 9 Uhr an.,session-011
+umsteigen (um|steigen),hacer transbordo,ˈʊmˌʃtaɪ̯ɡn̩,Du musst am Bahnhof umsteigen.,session-011
+einsteigen (ein|steigen),subir(se),ˈaɪ̯nˌʃtaɪ̯ɡn̩,Steig hier ein!,session-011
+aussteigen (aus|steigen),bajar(se),ˈaʊ̯sˌʃtaɪ̯ɡn̩,Steig an der nächsten Haltestelle aus.,session-011
+abfahren (ab|fahren),salir/partir,ˈapˌfaːʁən,Der Zug fährt um 8 Uhr ab.,session-011
+ankommen (an|kommen),llegar,ˈanˌkɔmən,Wir kommen um 9 Uhr an.,session-011
 "die Ampel, die Ampeln",el semáforo,ˈampl̩,An der Ampel links.,session-011
 "die Kreuzung, die Kreuzungen",el cruce,ˈkʁɔɪ̯tsʊŋ,Geh bis zur Kreuzung.,session-011
 "die Verspätung, die Verspätungen",el retraso,fɛɐ̯ˈʃpɛːtʊŋ,Der Bus hat 10 Minuten Verspätung.,session-011
@@ -227,3 +227,7 @@ geradeaus,recto / de frente,ɡəˌʁaːdəˈʔaʊ̯s,Geh geradeaus.,session-011
 weit,lejos,vaɪ̯t,Ist der Bahnhof weit?,session-011
 nah,cerca,naː,Die Haltestelle ist nah.,session-011
 dauern,durar / tardar,ˈdaʊ̯ɐn,Die Fahrt dauert 20 Minuten.,session-011
+geben (Prät. + Part. II),gab – hat gegeben,ɡəˈɡeːbn̩,Er hat mir den Kassenbon gegeben.,session-012
+gehen (Prät. + Part. II),ging – ist gegangen,ɡəˈɡaŋən,Ich bin zum Supermarkt gegangen.,session-012
+abfahren (Prät. + Part. II),fuhr ab – ist abgefahren,ˈapɡəˌfaːʁən,Der Zug ist um 8 Uhr abgefahren.,session-012
+ankommen (Prät. + Part. II),kam an – ist angekommen,ˈanɡəˌkɔmən,Wir sind um 9 Uhr angekommen.,session-012
