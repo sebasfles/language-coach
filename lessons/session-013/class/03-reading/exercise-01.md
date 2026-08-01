@@ -1,14 +1,14 @@
 # Lectura 01 (calificada) — »Am Bahnhof: Durchsage und Fahrplan«
 
 > Registro: **texto informativo** (aviso de megafonía + horario). Léelo primero de corrido, luego al detalle, y **después** responde.
-> Hay estructuras por encima de tu nivel — **glosadas; solo capta la idea**.
+> Hay estructuras por encima de tu nivel — llevan un **numerito**; las notas están **al final del archivo**, para no cortarte la lectura. Solo capta la idea.
 
 ---
 
 ## 📢 Durchsage *(aviso por megafonía)*
 
-> „Achtung an Gleis 5: Der ICE 703 nach München, planmäßige Abfahrt **acht Uhr fünfzehn**, hat heute etwa zwanzig Minuten Verspätung. *(«planmäßig» = según el horario previsto.)* Die neue Abfahrtszeit ist **acht Uhr fünfunddreißig**. Wir bitten um Ihr Verständnis. *(«Wir bitten um Ihr Verständnis» = rogamos disculpen — fórmula fija.)*
-> Der Regionalzug nach Nürnberg fährt planmäßig **um acht Uhr dreißig** von Gleis 2 ab. Bitte steigen Sie rechtzeitig ein! *(«rechtzeitig» = a tiempo.)*“
+> „Achtung an Gleis 5: Der ICE 703 nach München, planmäßige¹ Abfahrt **acht Uhr fünfzehn**, hat heute etwa zwanzig Minuten Verspätung. Die neue Abfahrtszeit ist **acht Uhr fünfunddreißig**. Wir bitten um Ihr Verständnis².
+> Der Regionalzug nach Nürnberg fährt planmäßig **um acht Uhr dreißig** von Gleis 2 ab. Bitte steigen Sie rechtzeitig³ ein!“
 >
 > *(Nota: los avisos de estación usan **siempre el sistema oficial de 24 h** — nunca «halb». El coloquial es para hablar.)*
 
@@ -21,7 +21,7 @@
 | IC 2045 | Hamburg | 9:20 | 13:50 | 7 | nicht am Wochenende |
 | RB 88 | Bremen | 10:00 | 11:10 | 3 | täglich, jede Stunde |
 
-**Hinweis:** Am Wochenende fährt der IC 2045 nicht. *(«Hinweis» = aviso/nota.)* Der RB 88 fährt **jede Stunde** von 6 Uhr bis 22 Uhr. Tickets bekommen Sie am Automaten oder am Schalter. *(«am Automaten / am Schalter» = en la máquina / en la ventanilla.)*
+**Hinweis⁴:** Am Wochenende fährt der IC 2045 nicht. Der RB 88 fährt **jede Stunde** von 6 Uhr bis 22 Uhr. Tickets bekommen Sie am Automaten⁵ oder am Schalter⁶.
 
 ---
 
@@ -44,3 +44,13 @@
 10. ¿Cuánto dura la fahrt del RE 12 a Nürnberg?
 11. ¿Entre qué horas circula el RB 88?
 12. Cita del texto **una** frase que empiece por un elemento que **no** sea el sujeto. Después escribe por separado **(a)** el elemento de la posición 1 y **(b)** el verbo conjugado. *(Hay más de una válida — p. ej. la que empieza por «Am Wochenende…» o la que empieza por «Tickets…».)*
+
+---
+
+### 📖 Notas
+¹ **planmäßig** = según el horario previsto
+² **Wir bitten um Ihr Verständnis** = rogamos disculpen *(fórmula fija de megafonía)*
+³ **rechtzeitig** = a tiempo
+⁴ **der Hinweis** = el aviso / la nota
+⁵ **am Automaten** = en la máquina expendedora
+⁶ **am Schalter** = en la ventanilla
