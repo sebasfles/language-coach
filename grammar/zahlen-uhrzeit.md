@@ -27,6 +27,8 @@
 **`halb acht` = 7:30.** El alemán cuenta **hacia la hora siguiente**; el español, hacia atrás.
 🎒 **Con `halb`, súmale uno a la hora española:** "las 7 y media" → *halb **acht***.
 
+⚠️ **El sistema coloquial usa SOLO 1–12.** No existe *~~halb fünfzehn~~*: las 14:30 son **`halb drei`** (coloquial) o **`vierzehn Uhr dreißig`** (oficial). **Nunca mezcles el reloj de 24 h con `halb`/`Viertel`.** *(Error real en s13.)*
+
 ## Preguntar
 - **Wie spät ist es?** / **Wie viel Uhr ist es?** → *Es ist …*
 - **Um wie viel Uhr …?** / **Wann …?** → *Um …*
@@ -50,4 +52,5 @@
 - Con la hora al inicio de la frase, **no olvides el V2**: *Um 8 Uhr **fährt** der Zug ab.*
 
 ## Historial
-- **s13:** introducido — formación de números, los dos sistemas horarios, la trampa `halb`, preguntas y los chunks um/am/im/von…bis/ab. Estado: `introduced@13 practicing@13`.
+- **s13:** introducido (ej-01 100% / ej-02 90%; trampa `halb` 4/4). Pendiente: *halb* solo 1–12, y el par **wann** (pregunta) vs **wenn** (condición).
+- **s13 (detalle):** introducido — formación de números, los dos sistemas horarios, la trampa `halb`, preguntas y los chunks um/am/im/von…bis/ab. Estado: `introduced@13 practicing@13`.

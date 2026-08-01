@@ -54,4 +54,11 @@
 
 **Cuentas de hoy:** 18 palabras + 5 tarjetas de formas = **23 tarjetas**. *(Por debajo del pico de 31 de la s12 — a propósito, para no acumular backlog.)*
 
-> **Pronunciación (para ti):** *Uhr* [uːɐ̯] — la *r* final se **vocaliza** (suena casi "u-a"), no la marques como *r* española. *spät* → **sp-** de raíz = **[ʃp]**, y *ä* larga = [ɛː]. *früh* → **ü** larga [yː] + la *h* solo alarga (no suena). *täglich* → *ä* [ɛː] + **ich-Laut** [ç]. *Wochenende* → ojo al **golpe glotal** entre *Wochen* y *Ende*: [ˈvɔxn̩ˌʔɛndə]. *Viertel* → **v = [f]**.
+> **Pronunciación (para ti):** *Uhr* [uːɐ̯] — la *r* final se **vocaliza** (suena casi "u-a"), no la marques como *r* española. *spät* → **sp-** de raíz = **[ʃp]**, y *ä* larga = [ɛː]. *früh* → **ü** larga [yː] + la *h* solo alarga (no suena). *täglich* → *ä* [ɛː] + **ich-Laut** [ç]. *Wochenende* → ojo al **golpe glotal** entre *Wochen* y *Ende*: [ˈvɔxn̩ˌʔɛndə].
+>
+> 🚨 **La trampa del ⟨ie⟩ en la familia de *vier*** (verificado en Duden/DWDS). Normalmente ⟨ie⟩ = **[iː] larga**… pero **tres números fusionados llevan [ɪ] CORTA**:
+> - **Viertel** [ˈfɪʁtl̩] · **vierzehn** [ˈfɪʁt͡seːn] · **vierzig** [ˈfɪʁt͡sɪç] ← *i* **corta** + **r uvular consonántica**
+> - En cambio *vier* [fiːɐ̯], *vierte* [ˈfiːɐ̯tə], *viermal*, *Viereck* → **i larga** + r vocalizada.
+> - 🎒 **Regla:** si la palabra **todavía parece *vier***, la *i* es **larga**. Solo esos tres la acortan.
+> - *(Duden también admite la variante larga **[ˈfiːɐ̯tl̩]** para Viertel — es estándar, típica del sur. Lo que **no** existe es mezclar *i corta + r vocalizada*: la vocal y la r van atadas.)*
+> - *Viertel* además: **v = [f]** y **-el = [l̩]** (l silábica, sin vocal).

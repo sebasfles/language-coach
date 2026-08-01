@@ -7,7 +7,7 @@
 
 Hallo Anna!
 
-
+Wie gehst du? Das letzte Mal wir haben uns gesehen, letzte Jahr ist das. Ich möchte sie sehen. Ich bin in Bremen am Montag angekommen. Die Fahrt war schnell! Ich zurückkomme nach Berlin am Sonntag. Wir können uns am Samstag gesehen. Um halb fünfzhen, er ist gut? Wir können einen Restaurant essen. Welcher Restaurant emphelst du? Ich habe damit kein Problem
 
 Liebe Grüße!
 
