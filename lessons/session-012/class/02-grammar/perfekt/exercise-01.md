@@ -1,26 +1,30 @@
 # Ejercicio 01 — formar el **Partizip II** (14 ítems)
 
-> **Schreib das Partizip II** *(escribe el participio)*. Piensa qué patrón toca:
+> **Schreib das Partizip II** _(escribe el participio)_. Piensa qué patrón toca:
 > débil `ge-…-t` · fuerte `ge-…-en` · separable `-ge-` en medio · inseparable/-ieren **sin ge-**
 
 ## A) Débiles (regulares)
-1. machen → __________
-2. kaufen → __________
-3. arbeiten → __________ *(raíz en -t → lleva -e-)*
-4. warten → __________
-5. dauern → __________ *(ojo: raíz en -er)*
+
+1. machen → gemacht
+2. kaufen → gekauft
+3. arbeiten → gearbeitet _(raíz en -t → lleva -e-)_
+4. warten → gewartet
+5. dauern → gedauert _(ojo: raíz en -er)_
 
 ## B) Fuertes (irregulares)
-6. essen → __________
-7. trinken → __________
-8. sprechen → __________
-9. nehmen → __________
-10. fahren → __________
 
-## C) Separables *(¿dónde va el `ge`?)*
-11. einkaufen (ein|kaufen) → __________
-12. ankommen (an|kommen) → __________
-13. umsteigen (um|steigen) → __________
+6. essen → gegessen
+7. trinken → getrunken
+8. sprechen → gesprochen
+9. nehmen → genommen
+10. fahren → gefahren
 
-## D) Inseparables / -ieren *(¿lleva `ge-`?)*
-14. bezahlen → __________
+## C) Separables _(¿dónde va el `ge`?)_
+
+11. einkaufen (ein|kaufen) → eingekauft
+12. ankommen (an|kommen) → angekommen
+13. umsteigen (um|steigen) → umgestiegen
+
+## D) Inseparables / -ieren _(¿lleva `ge-`?)_
+
+14. bezahlen → bezahlt

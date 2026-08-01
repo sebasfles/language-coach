@@ -5,10 +5,6 @@
 
 ---
 
-Gestern
-
-
-
-
+Gestern bin ich um Bremen mit dem Zug angekommen. Ich habe letzte Woche die Fahrkarte gekauft. Die Farht hat nur zwanzig Minuten. Mehr schnell! Ich habe um die Straßen gelaufen. Meine Freudin hat auf mir zum Kreuzung gewartet. Wir sind mit die Fahrraden gefahren. Am Abend, ich bin zum Zentrum gegangen und hat die Kleidung gekauft. Endlich, ich habe den Bus genommen. Die Fahrt war lang! Sie hat Zwei Stunden gedauert.
 
 ---

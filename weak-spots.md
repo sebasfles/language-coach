@@ -8,19 +8,21 @@
 
 | spot | source | category | first_seen_session | last_seen_session | times_recurred | status | cleared_session |
 |---|---|---|---|---|---|---|---|
-| **género léxico** (der/die/das por sustantivo) — **EXPOSICIÓN de largo plazo, no penalizar** | 00-check s3–s11 (s11 der Bahnhof/das Gleis ✓) · 02-grammar · 03-writing | gender | 3 | 11 | 2 | active |  |
-| **-en de más** (añadir -n/-en fuera de masc-Akk): *einen Hose* (fem), **s11 *Zügen*** (plural), *meinen Karte* (fem) | 02-grammar s9 · 03-writing s9,s10 · **00-check s11 (*Zügen*; pero *einen Bus/eine Fahrkarte* ✓)** | case | 9 | 11 | 2 | active |  |
-| **`haben` conjugación** (du **hast** / er **hat**) | 03-writing s10 · **00-check s11 (*Habst* ✗) vs escalación s11 (*Hast* ✓)** | verb-form | 10 | 11 | 1 | active |  |
-| 🆕 **verbos separables: separación + prefijo** (frase principal → *fährt … ab*; prefijo *ab/an*) | **02-grammar s11 (ej-02 *fährt an*→ab; *aussteige*→steige aus) · 03-writing s11 (*abfahrt*→fährt ab; PERO *Steige … aus* ✓)** | separable-prefix | 11 | 11 | 0 | active |  |
+| **`haben` conjugación por persona** (**ich habe** / du hast / er hat) — s12: ***ich hat* ×3** | 03-writing s10 · 00-check s11 (*Habst*) · **00-check s12 (*Hast* ✓) vs 03-writing s12 (*ich hat* ×2 + s12 t01 *und hat*)** | verb-form | 10 | 12 | 2 | active |  |
+| 🆕 **V2 tras elemento frontal** (si algo ocupa la pos. 1, el verbo va 2.º) — *Am Abend**, ich bin*** · *Endlich**, ich habe*** · *dann **ich bin*** | **03-writing s12 (3 casos; PERO *Gestern bin ich* ✓)** | word-order | 12 | 12 | 0 | active |  |
+| **género léxico** (der/die/das) — **EXPOSICIÓN de largo plazo, no penalizar**; s12 también en **pronombre** (*Es* por *Er* = der Zug) y *an der Restaurant* (das) | 00-check s3–s11 · 02-grammar · **03-writing s12** | gender | 3 | 12 | 2 | active |  |
+| **verbos separables** — **partición ✅ resuelta (s12)**; pendiente **conservar prefijo + `-ge-` en el Partizip II** | 02-grammar s11 · 03-writing s11 · **s12: 00-check partición ✓✓ · ej-02 *gekommen*/*umstiegen* ✗✗ · 03-writing *angekommen*/*zurückgekommen* ✓✓✓** | separable-prefix | 11 | 12 | 1 | active |  |
+| 🆕 **`fahren`: Umlaut en 3.ª persona** (*er **fährt***, no *fahrt* — *fahrt* es de *ihr*) | 03-reading s11 (*er fahrt*) · **00-check s12 (*fahrt*)** | verb-form | 11 | 12 | 1 | active |  |
+| 🔁🔻 **léxico comprar (kaufen) vs pagar (zahlen)** — **RECAÍDA** (estaba cleared@10) | 02-grammar s8 · 00-check s9✓ · 03-writing s10✓ (cleared@10) · **02-grammar s12 (*bezahlt* por *gekauft*, ej-03 #8)** | word-choice | 8 | 12 | 1 | active |  |
 | **`groß` (adj) vs `Größe`** (talla, sustantivo) | 03-writing s10 (*mit große* ×2) | word-choice | 10 | 10 | 0 | active |  |
-| **pronombre en imperativo con `Sie`** (posición *Helfen Sie mir*; + omisión de *mir*) | 02-grammar s10 (ej-02/ej-03) | word-order | 10 | 10 | 0 | active |  |
-| **`sein`: `ihr` → seid** — recuperándose (recaída s10 *Seind*) | 00-check s2,s3 (cleared@3) · s10 (*Seind* ✗) · **escalación s11 (*Seid ihr müde?* ✓)** | verb-form | 1 | 11 | 1 | watch |  |
-| **`kein-`/`ein-` femenino → keine** — recuperándose (recaída s10 *kein Hose*) | 02-grammar s6 · cleared@9 · s10 (*kein Hose* ✗) · **00-check s11 (*keine Zeit* ✓)** | case | 6 | 11 | 1 | watch |  |
-| **definido/indefinido + Akk masc** (*der Saft*→*den*; *dieser*→*diesen*) | 05-test s7 · 00-check s8✓,s9✗,s10✓ · **02-grammar s11 (diesen/welchen/jeden ✓; 1 desliz *dieser* ej-02 #1)** | word-choice | 7 | 11 | 1 | watch |  |
+| **pronombre en imperativo con `Sie`** (*Helfen Sie mir*; + omisión de *mir*) | 02-grammar s10 (ej-02/ej-03) | word-order | 10 | 10 | 0 | active |  |
+| **-en de más** (añadir -n/-en fuera de masc-Akk) | 02-grammar s9 · 03-writing s9,s10 · 00-check s11 (*Zügen*) · **s12 LIMPIO** (*eine Fahrkarte*, *einen Kaffee*, *meine Karte*, *den Bus* ✓) | case | 9 | 12 | 2 | watch |  |
+| **definido/indefinido + Akk masc** (*der Saft*→*den*) | 05-test s7 · 00-check s8✓,s9✗,s10✓ · s11 (1 desliz *dieser*) · **s12 LIMPIO** (*den Bus*, *auf den Zug*, *einen Kaffee* ✓) | word-choice | 7 | 12 | 1 | watch |  |
 | concordancia de *du* en **pregunta invertida** (*Kannst du*) | 02-grammar s8 · 00-check s9✗,s10✓ | verb-form | 8 | 10 | 1 | watch |  |
 | **concordancia con plurales** (*Schuhe* → sin *eine*; verbo plural) | 03-writing s9 · 00-check s10✓ | agreement | 9 | 10 | 0 | watch |  |
-| léxico **comprar (kaufen) vs pagar (zahlen)** | 02-grammar s8 · 00-check s9✓ · 03-writing s10✓ | word-choice | 8 | 10 | 0 | cleared | 10 |
-| posición de **nicht** | 03-writing s6 · 00-check s7,s8 | word-order | 6 | 8 | 0 | cleared | 8 |
+| **`sein`: `ihr` → seid** | 00-check s2,s3 (cleared@3) · s10 (*Seind* ✗) · escalación s11 ✓ · **00-check s12 (*Seid ihr müde?* ✓)** | verb-form | 1 | 12 | 1 | cleared | 12 |
+| **`kein-`/`ein-` femenino → keine** | 02-grammar s6 · cleared@9 · s10 (*kein Hose* ✗) · 00-check s11 ✓ · **00-check s12 (*keine Zeit* ✓)** | case | 6 | 12 | 1 | cleared | 12 |
+| posición de **nicht** | 03-writing s6 · 00-check s7,s8 · **s12 ✓✓✓** (*nicht gekauft*, *nicht gehabt*, *nicht zu Fuß*) | word-order | 6 | 12 | 0 | cleared | 8 |
 | `and` → `und` | 03-writing s6 · 00-check/02-grammar s7 | false-friend | 6 | 7 | 0 | cleared | 7 |
 | mayúscula de sustantivos | 02-grammar s3 · 00-check s5,s6 | spelling | 3 | 6 | 1 | cleared | 6 |
 | formas exactas de plural: *Studenten* | 02-grammar s3 · 00-check s4,s5,s6 | word-form | 3 | 6 | 1 | cleared | 6 |
@@ -29,11 +31,15 @@
 | `die Stadt` vs `das Land` | 02-grammar s2 · 00-check s3,s4 | word-choice | 2 | 4 | 1 | cleared | 4 |
 | `ist` vs inglés *is* | 02-grammar s2 · 00-check s3,s4 | verb-form | 2 | 4 | 1 | cleared | 4 |
 
-> **Churn de la sesión 11:**
-> - 🆕 **verbos separables** (`separable-prefix`) — **el punto central de hoy** (tema Verkehr, lleno de ellos). Mixto: mal en ej-02 (*fährt an*, *aussteige*) y writing-01 (*abfahrt*), **pero BIEN en writing-02 (*Steige … aus* ✓)** tras la charla. Regla a automatizar: en frase principal **el verbo se conjuga y el prefijo va al final** (*fährt … ab*); con modal, entero (*muss abfahren*).
-> - ✅ **Dos → `watch`** (1.ª limpia tras la recaída): **`ihr seid`** (escalación *Seid ihr müde?* ✓) y **`keine` femenino** (*keine Zeit* ✓). Una más y cierran.
-> - 🟰 **`haben`** — **mixto en la misma sesión**: 00-check *Habst* ✗ / escalación *Hast* ✓. Lo sabe con foco, se cae bajo prisa → sigue `active`, tr→1.
-> - 🟰 **-en de más** — el reflejo se **movió al plural**: *Zügen* (por *Züge*), aunque la forma de artículo (*einen Bus/eine Fahrkarte*) salió **bien**. tr→2, sigue `active`.
-> - 🟰 **der→den** (watch): *diesen/welchen/jeden* correctos (dieser-welcher), 1 desliz suelto (*dieser* ej-02 #1) → se mantiene en `watch` (evidencia dominante correcta).
-> - 🟰 **género** correcto s11 (Bahnhof/Gleis) — exposición estable.
-> - **Notas (no weak-spots fijos):** *du muss→musst* (modal en du, -st) — 1 caso, vigilar (ver grammar.md modalverben); *fahrt→fährt* (vokalwechsel, 1 desliz en respuesta de lectura); **A2/B1 reaches NO penalizados** — *warten auf* + Akk (*auf den Bus / auf dich*), *mit* + Dativo (*mit diesem/meiner*), oración de relativo (*der Bus, den du nimmst*) — el learner los intentó y preguntó; aclarados, candidatos a input glosado.
+> **Churn de la sesión 12:**
+> - 🎉🎉 **DOS CLEARED**: **`sein: ihr → seid`** (recaída en s10 → limpio en s11 y s12) y **`kein-`/`ein-` femenino** (recaída en s10 → limpio en s11 y s12). Ambos **cerrados@12**.
+> - 🆕🔴 **V2 tras elemento frontal** — el weak-spot más importante de hoy: 3 casos en escritura (*Am Abend, ich bin* · *Endlich, ich habe* · *dann ich bin*), **con acierto intercalado** (*Gestern bin ich* ✓). Diagnóstico: generaliza la regla de las conjunciones (*aber/denn* NO invierten) a los adverbios (*dann/deshalb* SÍ invierten) + coma a la española. `word-order`.
+> - 🔴 **`haben` por persona → recurre fuerte:** *Hast du* ✓ en el check, pero ***ich hat* ×3** en producción libre. El learner lo identificó él mismo como automatismo de Anki. tr→2.
+> - 🔁🔻 **`kaufen` vs `zahlen` — RECAÍDA** (cleared@10): *bezahlt* por *gekauft*. Dirección invertida respecto a antes. → `active`, tr→1.
+> - 🟰 **Separables — media victoria:** la **partición está resuelta** (00-check ✓✓, y *Steige…aus* desde s11); ahora falla en el **participio** (ej-02 *gekommen*/*umstiegen*) aunque en escritura salió bien 3 veces (*angekommen* ×2, *zurückgekommen*). Sigue `active` con la descripción refinada.
+> - 🆕 **`fahren` Umlaut 3.ª persona** (*fahrt*→*fährt*): 2.ª aparición (s11 lectura, s12 check) → weak-spot propio; ver democión de `praesens-vokalwechsel-haben` en `grammar.md`.
+> - ✅ **Dos → `watch`:** **-en de más** (sesión limpia: *eine Fahrkarte, einen Kaffee, meine Karte*) y **der→den** (*den Bus, auf den Zug, einen Kaffee*). Una limpia más y cierran.
+> - ✅ **posición de `nicht`** (cleared@8) **re-confirmada** 3 veces en s12 — sigue cerrada, sin recaída.
+> - ✅ **`warten auf` + Akkusativo — RESUELTO en observación:** ✗ s11 (*auf dir*), ✗ s12 t01 (*auf mir*), **✓ s12 t02 (*auf den Zug*)**. No se abre como weak-spot fijo (es rección B1) pero queda anotado.
+> - **Notas (no weak-spots fijos):** Satzklammer incompleta (olvidó el participio, 1 caso) · *gekaufen* (patrón fuerte aplicado a verbo débil, 1 caso) · auxiliar *sind* con *essen* (1 caso; ancla: **objeto directo → haben**) · typos con transposición **hr→rh** (*Farht/Farhkarte*) y *zürück*→*zurück*.
+> - **PREPOSICIONES CON CASO (A2, no enseñadas): 10 errores entre las dos tareas** — *um Bremen, um die Straßen, zum Kreuzung, mit die Fahrraden, in Bahnhof ×2, an der Kasse (movimiento), zum meine Haus, durch zwanzig Minuten, an der Restaurant*. **NO son weak-spots** (material no enseñado) pero son **el techo productivo actual** y el learner las pide explícitamente → **señal fuerte para `/recalibrate` (s14)**: adelantar A1 #19 / A2 #4–#5.

@@ -51,3 +51,10 @@ session,segment,skill,items,correct,pct,self_difficulty_1to5,tier
 11,02-grammar,grammar,10,10,100,,A1
 11,03-writing,writing,1,1,85,,A1
 11,03-writing,writing,1,1,75,,A1
+12,00-check,grammar,12,11.5,96,,A1
+12,02-grammar,grammar,14,14,100,,A1
+12,02-grammar,grammar,20,16,80,,A1
+12,02-grammar,grammar,9,7,78,,A1
+12,03-reading,reading,11,11,100,,A2
+12,03-writing,writing,1,1,80,,A1
+12,03-writing,writing,1,1,74,,A1

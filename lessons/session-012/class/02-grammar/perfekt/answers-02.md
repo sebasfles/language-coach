@@ -1,12 +1,12 @@
 # Ejercicio 02 — tus respuestas (haben / sein + frase completa)
 
-1. Ich __________ nach Köln __________ .
-2. Ich __________ eine Fahrkarte __________ .
-3. Der Zug __________ um 8 Uhr __________ .
-4. Wir __________ Pizza __________ .
-5. Du __________ zu Fuß __________ .
-6. Sie __________ am Bahnhof __________ .
-7. Ich __________ mit Karte __________ .
-8. Ihr __________ zehn Minuten __________ .
-9. Der Bus __________ pünktlich __________ .
-10. Ich __________ einen Kaffee __________ .
+1. Ich bin nach Köln gefahren .
+2. Ich habe eine Fahrkarte gekaufen .
+3. Der Zug ist um 8 Uhr gekommen .
+4. Wir haben Pizza gegessen .
+5. Du bist zu Fuß gegangen .
+6. Sie ist am Bahnhof umstiegen .
+7. Ich habe mit Karte bezahlt .
+8. Ihr habt zehn Minuten gewartet .
+9. Der Bus ist pünktlich gewessen .
+10. Ich habe einen Kaffee getrunken .

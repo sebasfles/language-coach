@@ -1,14 +1,16 @@
 # Ejercicio 03 — tus respuestas (contrastes + producción)
 
 ## A) Opción múltiple — la forma del **Perfekt** (a/b/c)
-1. ____
-2. ____
-3. ____
-4. ____
-5. ____
-6. ____
+
+1. b
+2. a
+3. a
+4. b
+5. a
+6. a
 
 ## B) Traduce (Perfekt)
-7. «Ayer tomé el autobús.» → __________________________________________
-8. «¿Has comprado el billete?» → __________________________________________
-9. «No he venido a pie.» → __________________________________________
+
+7. «Ayer tomé el autobús.» → Gestern habe ich den Bus genommen
+8. «¿Has comprado el billete?» → Hast du die Fahrkarte bezahlt?
+9. «No he venido a pie.» → Ich bin nicht zu Fuß gekommen.
