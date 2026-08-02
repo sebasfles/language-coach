@@ -65,3 +65,6 @@ session,segment,skill,items,correct,pct,self_difficulty_1to5,tier
 13,03-reading,reading,12,12,100,,A2
 13,03-writing,writing,1,1,78,,A1
 13,03-writing,writing,1,1,74,,A1
+14,05-test,reading,16,14.5,91,,A2
+14,05-test,grammar,35,33,94,,A1
+14,05-test,writing,30,24.5,82,,A1

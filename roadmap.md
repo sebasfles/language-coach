@@ -13,7 +13,9 @@
 ## Honest pacing note (read with `overview.md`'s "Honest expectations")
 
 - **Window & budget (assumption).** ~6 months at an **assumed default of ~5 sessions/week** × 1.5 h ≈ **~130 sessions available** (≈ 195 guided hours; the learner will vary sessions/week by progress, so treat ~130 as an estimate, not a contract). Sessions-per-week is an **assumption** used only to size the bands — nothing here is calendar-indexed.
-- **B2/C1 in this window is a STRETCH from a near-zero base.** Reaching solid B2 in German typically takes ~600–750 guided hours, more for the exposure-gated skills. A realistic landing in ~195 hours is a **solid A2–B1**, with **reading and grammar leading** and **listening (at native speed) and speaking lagging** — those are gated by exposure hours, not by cleverness. The learner's comfort in **English gives a partial Germanic-cognate bridge** that helps reading/vocabulary somewhat. B2/C1 stays the **north star**, tracked honestly via `LEARNING-PACE.md`, `/progress`, and `/recalibrate` — so a strong A2–B1 result reads as **success**, not failure against an unrealistic number. **Progress is asymmetric.**
+> 🔄 **Updated at session 14 by `/recalibrate`:** the "solid A2–B1" landing below is **revised upward to a solid B1, with B2 reachable in grammar and reading** — A1 was completed in 14 sessions instead of ~35. **The asymmetry warning below holds and has gotten sharper, not softer:** at session 14 reading/writing are A2 while listening/speaking are A1.
+
+- **B2/C1 in this window is a STRETCH from a near-zero base.** Reaching solid B2 in German typically takes ~600–750 guided hours, more for the exposure-gated skills. A realistic landing in ~195 hours is a **solid A2–B1** *(→ revised to solid B1 / B2-reachable, see above)*, with **reading and grammar leading** and **listening (at native speed) and speaking lagging** — those are gated by exposure hours, not by cleverness. The learner's comfort in **English gives a partial Germanic-cognate bridge** that helps reading/vocabulary somewhat. B2/C1 stays the **north star**, tracked honestly via `LEARNING-PACE.md`, `/progress`, and `/recalibrate` — so a strong A2–B1 result reads as **success**, not failure against an unrealistic number. **Progress is asymmetric.**
 - **What this means for the roadmap.** The systematic, rule-based core of German (cases, verb morphology, word order, adjective endings) **compresses well** for a sharp learner and is front-loaded here — expect to move through **A1–A2 grammar within roughly the first ~half** of the program and reach into **B1** grammar by the second half. The **B2 and B2/C1 bands below are aspirational for this window**: they will likely be *introduced as input / glossed* and only *partially drilled* before session ~130 unless `/recalibrate` shows the learner is ahead. **Grammar advancing fast on paper does not equal B2 across all four skills** — automaticity in listening/speaking trails the roadmap.
 
 ### Starting point (assumption)
@@ -22,13 +24,19 @@ Starting level is assumed **beginner / A1** (not stated by the learner). **Sessi
 
 ### How the bands map onto the ~130 sessions (estimate)
 
-| Band | Rough session range (estimate) | Realistic status in this window |
+| Band | Rough session range | Realistic status in this window |
 |---|---|---|
-| **A1** | N ≈ 1–35 | Fully taught + drilled |
-| **A2** | N ≈ 30–70 | Fully taught + drilled |
-| **B1** | N ≈ 65–110 | Mostly taught; later B1 topics overlap into the tail |
-| **B2** | N ≈ 105–130 | Introduced; partially drilled (the realistic frontier) |
-| **B2/C1 polish** | N ≈ 125–130+ | Mostly **input / glossed**; full mastery is beyond this window |
+| ~~**A1**~~ | ~~N ≈ 1–35~~ → **N 1–14, DONE** ✅ | **Completed at session 14** (#1–#18; #19 pending as a bridge) |
+| **A2** | ~~N ≈ 30–70~~ → **N ≈ 15–45** | Fully taught + drilled |
+| **B1** | ~~N ≈ 65–110~~ → **N ≈ 40–85** | Fully taught + drilled |
+| **B2** | ~~N ≈ 105–130~~ → **N ≈ 80–120** | Mostly taught; the realistic frontier for grammar/reading |
+| **B2/C1 polish** | ~~N ≈ 125–130+~~ → **N ≈ 115–130+** | Partly drilled; the rest **input / glossed** |
+
+> 🔄 **Re-paced by `/recalibrate` at session 14.** A1 #1–#18 were completed in **14 sessions**, not ~35 — the learner is running roughly **2.5× ahead** of the original estimate. Evidence: 90-minute exam at reading 91 / grammar 94 / writing 82, four consecutive reading sessions ≥91% at A2 tier, and **seven untaught A2/B1 structures produced correctly and spontaneously**.
+>
+> ⚠️ **But grammar pace ≠ four-skill level, and the gap is now the main risk.** At session 14 reading and writing are **A2** while listening and speaking are **A1** — a **two-band spread**. Pulling the grammar bands forward without lifting listening/speaking volume just widens it. The re-pace above is paired with a **time-allocation change in `STATE.md`** (listening floor raised to 20 min + an unsupported-first protocol; a spontaneous spoken monologue added). Honor both or neither.
+>
+> **Honest landing, revised:** a **solid B1 with B2 reachable in grammar and reading** — up from the original "solid A2–B1". Listening and speaking will still land lower; they are gated by exposure hours, not by roadmap position.
 
 Ranges **overlap on purpose** (topics interleave; grammar advances every session but new-topic introduction is lighter on the 7th-session consolidation tests and the standalone 14th-session 90-min test). The numbers are not a schedule — `/recalibrate` re-paces them.
 
@@ -60,9 +68,30 @@ Build the sentence engine: present tense, the article/case system in its first t
 
 ---
 
-## A2 — The case system completes, the clause opens up (estimate: N ≈ 30–70)
+## A2 — The case system completes, the clause opens up (N ≈ 15–45)
 
 Add the dative, the preposition system (fixed-case + two-way), the full past tenses for speech and the spoken/written narrative split, comparison, and the first subordinate clauses with their verb-final word order.
+
+### 🔀 TEACHING ORDER — reordered by `/recalibrate` at session 14
+
+**The numbered list below keeps its canonical numbering** (referenced elsewhere). **Teach it in this order instead:**
+
+| Order | Topic | Why here |
+|---|---|---|
+| 0 | **A1 #19** — prepositions as chunks | Bridge, ~1 session |
+| 1 | **#1 Dativ** | The key — nothing below works without it |
+| 2 | **#4 Fixed-case prepositions** + contractions (`zum/zur/im/am/beim/vom`) | |
+| 3 | **#5 Two-way prepositions** (`wohin?` Akk / `wo?` Dat) | ⬅️ **the actual fix for the learner's productive ceiling** |
+| 4 | **#7 Präteritum of `sein`/`haben`/modals** | Nearly free — already produces `war` correctly and idiomatically |
+| 5 | **#11a `weil` + `dass`** (verb-final) — the rest of #11 stays in place | Already handles `denn` correctly and reaches for `weil` unprompted |
+| 6 | **#9 Comparatives** | Nearly free — already produces `billiger als`, `früher als` |
+| 7+ | Then the canonical order resumes: **#2, #3, #6, #8, #10, #11 (rest), #12–#15** | |
+
+> **Why the reorder.** In the session-14 exam's free-writing task the learner had to narrate a full day — and **within A1 #1–#18 there is no correct way to say "I went to the supermarket."** His most expensive productive errors (*nach Supermarkt* ×2, *nach Berlin angekommen*) were not knowledge failures; they were the **curriculum's ceiling**. Prepositions-with-case is the single unlock, so Dativ → #4 → #5 goes first.
+>
+> **Pull-forward candidates confirmed by input recurrence** (per the `/recalibrate` remit): **`weil`/`dass`/`wenn`** and **comparatives** have appeared glossed in the reading of every session since ~s11, and the learner comprehends them and produces near-misses on his own (`denn` used correctly where `weil` was wanted; `dass` correctly omitted with V2). Both are cheap pulls with high productive payoff.
+>
+> **Cheap-and-already-there:** #7 and #9 are graded as *consolidation*, not new teaching — the learner already produces both correctly. Budget them light.
 
 1. **Dativ — the third case.** The indirect-object case; article forms `dem / der / dem / den (+n on plural noun)`; **dative personal pronouns** (`mir, dir, ihm, ihr, ihm, uns, euch, ihnen, Ihnen`).
 2. **Dative verbs.** Verbs that take a dative object (`helfen, danken, gefallen, gehören, antworten, folgen, passen, schmecken`) — flagged because they violate the Spanish-speaker's "object = accusative" expectation (`Ich helfe **dir**`).
