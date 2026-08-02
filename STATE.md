@@ -53,13 +53,16 @@ N: 15
 - **✍️ WRITING: mantener 2 tareas, subir la exigencia de estructura.** No material más fácil — **más reps al mismo nivel**, que es lo que arregla la automatización.
 - ⚠️ **Y una consigna para `/lesson`:** si una tarea de escritura pide un contexto que exige gramática no enseñada (desplazamientos, lugares), **da los chunks o cambia el contexto**. La Aufgabe 2 de la s14 falló en esto.
 
-### Weak-spots a drillar (por prioridad, tras el examen)
-1. 🔴 **Auxiliar `sein` con verbos de movimiento en escritura libre** — *hat abgefahren* → **ist**. En ejercicios 3/3; libre ✗. Automatización.
-2. 🔴 **Cambio vocálico e→ie / e→i no activado** — *Sehst* → **siehst**. *(Pero produjo `empfiehlst` correctamente en escritura libre: la regla la tiene.)*
-3. 🆕 **Valencia verbal** — transitivos sin objeto acusativo (*Wo empfiehlst du?*). Categoría nueva.
-4. 🔴 **`fahren`: Umlaut en 3.ª persona** — limpio en TODO el examen (*fährt* ✓✓✓). Candidato a `watch` si se repite limpio.
-5. 🟠 **Participios fuertes regularizados** (*gelauft* → gelaufen) · **kein/nicht + mayúscula** (*essen* → *kein Essen*) · **concordancia Sie/sie**.
-6. 🟡 **Cumplimiento de requisitos de tarea** — la Aufgabe 2 se dejó **dos** elementos exigidos (modal, tercera hora). Releer la consigna al terminar.
+### Weak-spots a drillar (por prioridad — churn de la s14 ya aplicado en `weak-spots.md`)
+1. 🔴 **Auxiliar `sein` con verbos de movimiento — solo en escritura libre** — *hat abgefahren* → **ist**. En ejercicios 3/3; libre ✗. Automatización.
+2. 🔴 **Cambio vocálico e→i / e→ie no se activa** — *Sehst* → **siehst**, *nehme* → **nimmt**. *(Pero produjo `empfiehlst` ✓ en escritura libre: la regla la tiene.)*
+3. 🆕🔴 **Valencia verbal** — transitivos sin objeto acusativo (*Wo empfiehlst du?*). **Categoría nueva** (`valency`).
+4. 🟠 **Participios fuertes regularizados** (*gelauft* → **gelaufen**) · 🟠 **concordancia `Sie`/`sie`** (*möchte Sie*).
+5. 🟠 **Ortografía bajo velocidad** — **mejoró mucho**: de 8+ casos en la s13 a **2 reales** en la s14 (*nein*/neun, *is*/ist).
+6. **Género léxico** — exposición de largo plazo, recircular suave, **no penalizar**.
+7. 🎉 **Cinco spots pasaron a `watch`** tras salir limpios en el examen: `fahren`-Umlaut *(era el nº1)*, separables partidos, modal+infinitivo, `-en` de más y V2. **Un contexto limpio más y se cierran** — vale la pena tocarlos de refilón, no drillarlos a fondo.
+
+> 📋 **Fuera de `weak-spots.md` pero activo:** **cumplimiento de requisitos de tarea** — la Aufgabe 2 se dejó **dos de seis** (ningún modal, solo dos horas). No es lengua y no se puede drillar en un 00-check → se ataja con **checklist marcable** al final de cada tarea de escritura.
 
 ### Estructura de sesión
 Slot 03 = **1 lectura densa (~10–12 preguntas, tier B1 glosado) + 3 conversaciones read-only + 2 escrituras**. ~2,5–2,75 h, partible en dos días.
@@ -68,7 +71,8 @@ Slot 03 = **1 lectura densa (~10–12 preguntas, tier B1 glosado) + 3 conversaci
 Current theme: 4 (Verkehr & Wegbeschreibung)
 Sessions-in-theme: 3
 
-> The current theme drives the session's vocabulary (the bulk) and the context of reading / writing / listening / speaking. It rides on top of `roadmap.md`; it never reorders grammar. Advanced adaptively by `/close-day` (stay ≥ ~3 sessions, ≤ ~10; **preferencia del learner: ~4–5**). **Se mantiene en 3**: la s14 fue test-only y **no consumió sesión de tema**, así que Verkehr retoma en la **s15 como 4.ª** — y encaja perfectamente con las preposiciones de lugar que abren el bloque A2. Tras ella, evaluar el paso a **Tema 5 (Tagesablauf)**.
+> The current theme drives the session's vocabulary (the bulk) and the context of reading / writing / listening / speaking. It rides on top of `roadmap.md`; it never reorders grammar. Advanced adaptively by `/close-day` (stay ≥ ~3 sessions, ≤ ~10; **preferencia del learner: ~4–5**).
+> **Decisión del cierre de la s14: NO se incrementa, se mantiene en 3.** La s14 fue **test-only** y no consumió sesión de tema (mismo criterio que el slot 03, que también se salta en día de examen). Verkehr retoma en la **s15 como 4.ª** — y encaja perfectamente con las preposiciones de lugar que abren el bloque A2. Tras la s15, evaluar el paso a **Tema 5 (Tagesablauf)**, que encaja con la hora recién dominada y con los separables/reflexivos de rutina.
 
 ## Ledger pointer
 session-013
