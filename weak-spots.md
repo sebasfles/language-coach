@@ -14,7 +14,7 @@
 | 🆕🔴 **valencia verbal: transitivo sin objeto acusativo** (*Wo empfiehlst du?* → *empfehlen* exige objeto) | **s14 Aufgabe 1.** ⚠️ Categoría nueva. **Sustituye** la etiqueta falsa «confusión de W-Fragen» de la corrección v1 | valency | 14 | 14 | 0 | active |  |
 | 🟠 **participios fuertes regularizados** (*gelauft* → **gelaufen**) | **s14 Aufgabe 2** | verb-form | 14 | 14 | 0 | active |  |
 | 🟠 **concordancia `Sie`/`sie` + verbo** (*möchte Sie* → *möchten Sie* / *möchte sie*) | **s14 ítem 29** — enlaza con el spot de registro du/Sie en `watch` | agreement | 14 | 14 | 0 | active |  |
-| **ortografía bajo velocidad**: transposición de letras, diéresis omitida, vocales cambiadas | s13: **8+ casos** (*nein, zug, zwöelf, färsht, mochte×2, FahrKarte…*) · **s14: MEJORA CLARA — solo 2 reales** (*halb **nein*** → neun · *is* → ist) | spelling | 13 | 14 | 1 | active |  |
+| **ortografía bajo velocidad**: transposición de letras, diéresis omitida, vocales cambiadas | s13: **8+ casos** (*nein, zug, zwöelf, färsht, mochte×2, FahrKarte…*) · **s14: MEJORA CLARA — 1 caso real puntuable** (*halb **nein*** → neun) **+ 1 en zona sin puntuar** (*is* → ist) | spelling | 13 | 14 | 1 | active |  |
 | **género léxico** (der/die/das) — **EXPOSICIÓN de largo plazo, NO penalizar** | 00-check s3–s12 · s13 (*Welcher Restaurant*) · **s14: *die Fahrrad* ✗ (es *das*) — pero *eine Fahrkarte* ✓ y *ein Brot* ✓** | gender | 3 | 14 | 3 | active |  |
 | **`groß` (adj) vs `Größe`** (talla) | 03-writing s10 (*mit große* ×2) — sin probar desde entonces | word-choice | 10 | 10 | 0 | active |  |
 | **pronombre en imperativo con `Sie`** (*Helfen Sie mir*) | 02-grammar s10 — sin probar desde entonces | word-order | 10 | 10 | 0 | active |  |
@@ -40,7 +40,7 @@
 | terminación verbal según la persona | 02-grammar s4 · 00-check s5,s6 | verb-form | 4 | 6 | 0 | cleared | 6 |
 | número + concordancia: *Meine Muttersprache ist* | 03-writing s2 · 00-check s3,s4 | agreement | 2 | 4 | 1 | cleared | 4 |
 | `die Stadt` vs `das Land` | 02-grammar s2 · 00-check s3,s4 | word-choice | 2 | 4 | 1 | cleared | 4 |
-| `ist` vs inglés *is* | 02-grammar s2 · 00-check s3,s4 *(el *is* de la s14 fue en la zona sin puntuar; typo aislado, no recaída)* | verb-form | 2 | 4 | 1 | cleared | 4 |
+| `ist` vs inglés *is* | 02-grammar s2 · 00-check s3,s4 · **s14: NO se reactiva.** El *is* del ítem 46 fue en la **zona sin puntuar** y es un **typo bajo velocidad** (pertenece a la fila `spelling`), **no** una confusión inglés↔alemán — que es lo que este spot mide. En el mismo examen escribió *ist* correctamente varias veces | verb-form | 2 | 4 | 1 | cleared | 4 |
 
 > **Churn de la sesión 14 (el examen de 90 min):**
 >
